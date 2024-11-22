@@ -1,0 +1,1076 @@
+{"sentence": "ITDC , KFHL present dividends worth Rs 18 . 84 crore", "labels": [[[0, 1], "neutral"], [[2, 3], "neutral"]]}
+{"sentence": "Mundra Port a good buying opportunity : Deepak Mohoni", "labels": [[[0, 2], "positive"]]}
+{"sentence": "No tax on capital gains on offshore rupee bonds : CBDT", "labels": [[[10, 11], "neutral"]]}
+{"sentence": "PepsiCo India appoints new CEOs for beverages , foods businesses", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Technicals point to increasing probability of 7 , 000 on NSE", "labels": [[[10, 11], "neutral"]]}
+{"sentence": "Cipla plunges over 5% as Q3 net profit lags Street estimates", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Brent steady above $108 as Russia , Libya support", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Sebi slaps Rs 42 . 50cr fine on 21 entities for fraudulent trade", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Refined soya oil futures remain weak on sluggish demand", "labels": [[[0, 4], "negative"]]}
+{"sentence": "Shapoorji Pallonji Group , CPPIB enter into strategic alliance", "labels": [[[0, 3], "neutral"], [[4, 5], "neutral"]]}
+{"sentence": "Sensex , Nifty rangebound ; ITC , TCS , Tata Motors top gainers", "labels": [[[5, 6], "positive"], [[7, 8], "positive"], [[9, 11], "positive"], [[0, 1], "neutral"], [[2, 3], "neutral"]]}
+{"sentence": "BSE plans foray into commodity trading ; board gives nod for new platform", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Central Bank of India extends poor show , net falls 4% in Q4", "labels": [[[0, 4], "negative"]]}
+{"sentence": "MEP Infrastructure Rs 324 crore IPO opens tomorrow", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "NIIT Technologies Q1 net profit up 35 . 5% at Rs 58 . 5 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "MRPL shares surge over 19% on robust earnings", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Momentum upbeat ; expect Nifty to hit new highs soon : Ashwani Gujral", "labels": [[[4, 5], "positive"]]}
+{"sentence": "WL Ross asks OCM to wipe out losses by March 2013", "labels": [[[3, 4], "neutral"]]}
+{"sentence": "European shares down , BNP Paribas slumps on possible fine", "labels": [[[0, 2], "positive"], [[4, 6], "positive"]]}
+{"sentence": "Sebi mulls pension fund for employees", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Euro slides to 11 - month low against yen , volatility rises", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Ericsson India Q4 revenue up 20 per cent", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Brokerages up target price for Tech Mahindra post Comviva buy", "labels": [[[5, 7], "positive"]]}
+{"sentence": "Parabolic Drugs IPO opens on June 14", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Infosys reclaims status of top Sensex stock", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Slow Asian demand despite multi - year low gold prices", "labels": [[[8, 9], "negative"]]}
+{"sentence": "Arun Gandhi says farewell to Tata sons", "labels": [[[5, 7], "neutral"]]}
+{"sentence": "HDIL MD Sarang Wadhawan sells 26 lakh shares of company", "labels": [[[0, 1], "negative"]]}
+{"sentence": "London copper set to end week flat on US rate hike worries", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Sell Bharti Infratel Ltd with a target of Rs 242 : Vijay Bhambwani", "labels": [[[1, 4], "negative"]]}
+{"sentence": "Insecticides India Q1 net profit up 14% at Rs 19 . 8 cr", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Hindustan Zinc climbs 6% after Glencore ' s production cut announcement", "labels": [[[0, 2], "positive"], [[6, 7], "negative"]]}
+{"sentence": "Europe ' s low - rated bonds stutter on China , Greek stock nerves", "labels": [[[9, 13], "negative"]]}
+{"sentence": "Emerging - market assets get respite as dollar pulls back", "labels": [[[0, 4], "positive"]]}
+{"sentence": "Infosys ends 3% down ; global brokerages raise target price post Q1 results", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Pulses prices likely to go up around Diwali : Study", "labels": [[[0, 1], "positive"]]}
+{"sentence": "2011 : Gold , silver touch all - time highs amid economic turmoil and rising inflation", "labels": [[[2, 3], "positive"], [[4, 5], "positive"]]}
+{"sentence": "Two senior executives quit HULs modern trade division", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "Pharma stocks likely to outperform in next one month : Ashwani Gujral", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Education is a volatile space : Deepak Mohoni", "labels": [[[0, 1], "negative"]]}
+{"sentence": "US Federal Reserve optimism lifts Asia stocks , dollar struggles", "labels": [[[5, 7], "positive"], [[8, 9], "negative"]]}
+{"sentence": "Why it will be a tough task for Vishal Sikka to revive Infosys back to its glory", "labels": [[[12, 13], "neutral"]]}
+{"sentence": "DLF shares tumble 28% to 7 - year low on Sebi ban", "labels": [[[0, 1], "negative"], [[11, 12], "neutral"]]}
+{"sentence": "Era Infra bags Rs 329 crore contract ; stock surges", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Wall Street climbs on Procter & Gamble , Microsoft", "labels": [[[4, 7], "positive"], [[8, 9], "positive"]]}
+{"sentence": "Nasdaq eyes running dark pools for banks : WSJ", "labels": [[[0, 1], "neutral"], [[8, 9], "neutral"]]}
+{"sentence": "Investment banker Manish Chokhani to head TPGs India , SE Asia play", "labels": [[[6, 8], "neutral"], [[9, 12], "neutral"]]}
+{"sentence": "Dollar wilts in wake of downbeat US GDP revision", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Hedge funds thrive on macro bets", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Prefer Indian FMCG companies to HUL : Dipan Mehta", "labels": [[[1, 4], "positive"], [[5, 6], "negative"]]}
+{"sentence": "Axis Bank Q1 Net rises 18 per cent in first quarter", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Sebi asks for fresh clarification on Inox Wind Rs 700 crore IPO", "labels": [[[0, 1], "neutral"], [[6, 8], "neutral"]]}
+{"sentence": "Marginal revision in Lupin ' s target price expected : Pankaj Pandey", "labels": [[[3, 4], "neutral"]]}
+{"sentence": "Rail stocks fail to pick up steam ahead of railway budget 2015", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Expect more downside in the IT , pharma stocks : Sandeep Wagle", "labels": [[[5, 6], "negative"], [[7, 8], "negative"]]}
+{"sentence": "Where the funds flow : Banks , NBFCs , media others most favoured sectors in FY13", "labels": [[[5, 6], "positive"], [[7, 8], "positive"], [[9, 10], "positive"]]}
+{"sentence": "Cerebra snaps winning streak as traders corner co", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Sobha Developers heading to 200 , JP stuck at 90 : Ashwani Gujral", "labels": [[[0, 2], "positive"], [[6, 7], "neutral"]]}
+{"sentence": "Cardamom futures fall 0 . 50 pc on profit booking", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Put 40% of your capital in a gilt fund : Sandeep J Shah , Sampriti Capital", "labels": [[[15, 17], "neutral"]]}
+{"sentence": "January 06 , 2014 : Mecklai Financial report on rupee", "labels": [[[5, 7], "neutral"], [[9, 10], "neutral"]]}
+{"sentence": "DK Sarraf to become new ONGC head ; govt rejects Sudhir Vasudevas extension", "labels": [[[5, 6], "neutral"]]}
+{"sentence": "July 31 , 2014 : Mecklai Financial report on Rupee", "labels": [[[5, 7], "neutral"], [[9, 10], "neutral"]]}
+{"sentence": "SRS Ltd posts 54% rise in quarterly income", "labels": [[[0, 2], "positive"]]}
+{"sentence": "DIIs likely to lap up Rs 1 lakh crore bonds ; UDAY brings cheers to PF & insurance funds", "labels": [[[15, 19], "positive"]]}
+{"sentence": "Sesa Sterlite slips over 2% as government challenges merger", "labels": [[[0, 2], "negative"]]}
+{"sentence": "SE Asia stocks fall on growth concerns ; US data eyed", "labels": [[[0, 3], "negative"]]}
+{"sentence": "IOC up nearly 6% as EGoM okays share sale to ONGC , OIL", "labels": [[[0, 1], "positive"], [[11, 12], "neutral"], [[13, 14], "neutral"]]}
+{"sentence": "Europeans banks eye dollar bond market for capital boost", "labels": [[[0, 2], "neutral"], [[3, 4], "neutral"]]}
+{"sentence": "What happening in the oil market right now is ' unprecedented '", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "OIL India September quarter Net drops 5 . 3 pc to Rs 903 . 64 crore", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Brokerages lower ITC target price as Q3 results disappoint", "labels": [[[2, 3], "negative"]]}
+{"sentence": "D - Street shakeup may be triggered by MSCI rejig", "labels": [[[8, 9], "neutral"]]}
+{"sentence": "Shree Cement ' s JP Associates ' unit purchase to help balance north business", "labels": [[[0, 2], "neutral"], [[4, 6], "neutral"]]}
+{"sentence": "Deccan Chronicle , buy on dips : Ashwani Gujral", "labels": [[[0, 2], "positive"]]}
+{"sentence": "US stocks close : Dow , S & P 500 set record highs in light volume", "labels": [[[4, 5], "positive"], [[6, 10], "positive"]]}
+{"sentence": "Adecco India head Sudhakar Balakrishnan quits", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Coriander futures gain 0 . 79% on upsurge in demand", "labels": [[[0, 1], "negative"]]}
+{"sentence": "A Vellayan steps aside as Murugappa Group Chief after being charged by Sebi", "labels": [[[5, 7], "neutral"], [[12, 13], "neutral"]]}
+{"sentence": "PC Jeweller Q3 net up by 19% at Rs 79 . 98 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Railway vendor stocks like Kalindee , Titagarh Wagons , Texmaco , back in limelight as budget nears", "labels": [[[4, 5], "positive"], [[6, 8], "positive"], [[9, 10], "positive"]]}
+{"sentence": "Russia rout hits European shares", "labels": [[[3, 4], "negative"], [[0, 1], "neutral"]]}
+{"sentence": "Sugar prices drop on sluggish demand , adequate supply", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Shriram Transport Finance plummets 19% in a week ; investors should wait till construction biz rebounds", "labels": [[[0, 3], "negative"]]}
+{"sentence": "Overweight on IT sector : BP Singh", "labels": [[[2, 4], "neutral"]]}
+{"sentence": "Six trading houses imported 40 per cent gold in September", "labels": [[[7, 8], "neutral"]]}
+{"sentence": "Career Point is a great company : Avinash Gorakshekar , Anagram Capital Ltd", "labels": [[[0, 2], "positive"], [[10, 13], "neutral"]]}
+{"sentence": "Euro , stocks recover on hopes of Greek deal", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "World Gold Council organises forum to reform gold fix", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "SpiceJet reports Q4 net loss at Rs 321 . 5 crore", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "BSE Sensex may touch 23 , 500 level by year - end : RBS", "labels": [[[0, 2], "neutral"], [[13, 14], "neutral"]]}
+{"sentence": "Yuan rises slightly as lacklustre trade data offsets strong midpoint", "labels": [[[0, 1], "positive"]]}
+{"sentence": "DQE India plans IPO , chalks out expansion plans", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Guarseed futures recovers on short - covering", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Post Q4 earnings , telecoms appear safer bets in volatile market", "labels": [[[4, 5], "positive"]]}
+{"sentence": "Cement may attract some buying : Deepak Mohoni", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Ambit Capital sees 25% downside in L & T , advises investors to ' sell '", "labels": [[[7, 10], "negative"], [[0, 2], "neutral"]]}
+{"sentence": "Bearish on OMCs : Sandeep J Shah , Sampriti Capital", "labels": [[[2, 3], "negative"]]}
+{"sentence": "Improving US buyer confidence lifts crude oil", "labels": [[[5, 7], "positive"]]}
+{"sentence": "Rajasthan mining approval from Supreme Court , right investments prop up Birla Corp stock", "labels": [[[11, 13], "positive"]]}
+{"sentence": "Gold at three - week high on Ukraine", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Forex losses trim 8pc of Nifty companies ' profits : Crisil", "labels": [[[5, 6], "negative"]]}
+{"sentence": "Onion Prices may retreat in October on high supplies", "labels": [[[0, 1], "negative"]]}
+{"sentence": "JGBs mixed , underpinned by solid 5 - year auction results", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "World stocks hit one - month low , focus on Fed", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Sensex surges over 300 points ; ICICI , Cairn , Tata Steel , IDFC up", "labels": [[[6, 7], "positive"], [[8, 9], "positive"], [[10, 12], "positive"], [[13, 14], "positive"], [[0, 1], "positive"]]}
+{"sentence": "Coriander futures rise 0 . 67 per cent on pick - up in demand", "labels": [[[0, 1], "positive"]]}
+{"sentence": "EID Parry December quarter consolidated net profit at Rs 15 . 15 crore", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Coromandel , Tata Chemicals , National Fertilizer good fertilizer stocks : Gaurang Shah", "labels": [[[0, 1], "positive"], [[2, 4], "positive"], [[5, 7], "positive"]]}
+{"sentence": "RBI ' s rupee management undermines hedging push", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Britain FTSE touches 12 - month low as global growth concerns gnaw", "labels": [[[0, 2], "negative"]]}
+{"sentence": "VSF halved Grasim fortunes compared to Ultratech", "labels": [[[0, 1], "neutral"], [[2, 3], "neutral"], [[6, 7], "neutral"]]}
+{"sentence": "Greenply Q3 standalone net profit declines 2 . 82% to Rs 28 . 54 crore", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Target of 165 on Orchid Chemicals : Ashuu Kakkarr", "labels": [[[4, 6], "neutral"]]}
+{"sentence": "Railways finance arm to issue Rs 6000 crore tax - free bonds in current fiscal", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Risk premium narrows between government bonds and state - backed securities on lower supply", "labels": [[[4, 6], "neutral"]]}
+{"sentence": "Continue trading with long side bias with stop at 8450 levels on Nifty : Mitesh Thacker", "labels": [[[12, 13], "positive"]]}
+{"sentence": "Pre - market : Nifty seen opening lower ; TCS , RIL eyed", "labels": [[[4, 5], "negative"], [[9, 10], "neutral"], [[11, 12], "neutral"]]}
+{"sentence": "Brent falls close to $69 after Saudi price cut", "labels": [[[0, 1], "negative"]]}
+{"sentence": "La Opala sets record date for share sub - divison ; stock rallies", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Motilal Oswal pegs Nifty at 8500 by Diwali ; A reality or exaggeration ?", "labels": [[[0, 2], "neutral"], [[3, 4], "neutral"]]}
+{"sentence": "Auto is the sector to be in : Prakash Diwan", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Partha Chatterjee becomes Haldia Petrochemicals Chairman", "labels": [[[3, 5], "neutral"]]}
+{"sentence": "Hathway Cables surges 7% on FDI reforms boost", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Panel to monitor food futures", "labels": [[[3, 4], "negative"]]}
+{"sentence": "Bank , cement stocks have done phenomenally well in the last three months : Anish Damania", "labels": [[[0, 1], "positive"], [[2, 4], "positive"]]}
+{"sentence": "Sensex under pressure , Nifty slips below 7650 ; top 20 trading ideas", "labels": [[[0, 1], "negative"], [[4, 5], "negative"]]}
+{"sentence": "Expect market to be edgy and volatile in October : Arindam Ghosh , Blackridge", "labels": [[[13, 14], "neutral"]]}
+{"sentence": "Pre - market : Nifty seen opening flat ; may retest 8350", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "SEBI lets IDR holders convert 25% into equity", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Sundaram Clayton sells 4 shares via offer for sale route", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Wall Street opens flat , S & P 500 near record", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "What investors should expect from State Bank of India Q1 results ?", "labels": [[[5, 9], "neutral"]]}
+{"sentence": "Britain ' s FTSE rallies , buoyed by banks and retail", "labels": [[[3, 4], "positive"], [[8, 9], "positive"], [[10, 11], "positive"]]}
+{"sentence": "Sensex rangebound , Nifty holds 8500 levels ; Infosys top loser", "labels": [[[8, 9], "negative"], [[0, 1], "neutral"], [[3, 4], "neutral"]]}
+{"sentence": "Schroders Investment in talks to buy 30% stake in Axis MF", "labels": [[[10, 12], "positive"], [[0, 2], "neutral"]]}
+{"sentence": "S & P , Markit finalists for $1 billion - plus Barclays index unit : Sources", "labels": [[[0, 3], "positive"], [[4, 5], "positive"], [[12, 13], "neutral"]]}
+{"sentence": "Promoters take biggest hit of Rs 5 , 500 crore in DLF share plunge", "labels": [[[11, 12], "negative"]]}
+{"sentence": "Railway stocks on a roll ahead of Budget", "labels": [[[0, 2], "positive"]]}
+{"sentence": "City Union Bank H1 PAT rises 13 . 17%", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Masala bonds not spicy enough for the market due to poor pricing", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Oberoi Realty IPO price - band quite stretched : Swastika", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Euro falls to 22 - month low against buoyant dollar", "labels": [[[0, 1], "negative"]]}
+{"sentence": "VLCC files IPO papers with Sebi", "labels": [[[0, 1], "neutral"], [[5, 6], "neutral"]]}
+{"sentence": "Jaypee Sports International merger with Jaiprakash Associates gets NSE nod", "labels": [[[0, 3], "positive"], [[5, 7], "positive"], [[8, 9], "neutral"]]}
+{"sentence": "Valuations discount for midcap , small cap stocks has gone away , says Vinay Thakkar", "labels": [[[3, 4], "positive"], [[5, 8], "positive"]]}
+{"sentence": "Vipul Prakash to be Pepsi - Co ' s marketing head in India", "labels": [[[4, 7], "neutral"]]}
+{"sentence": "AAP effect ? RIL slips below Rs 800 , expert gets bearish", "labels": [[[3, 4], "negative"]]}
+{"sentence": "Jaiprakash Associates is a risky bet : Mehraboon Irani", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Gujarat plant factor not to affect Maruti in the near term : Neeraj Deewan", "labels": [[[6, 7], "neutral"]]}
+{"sentence": "S Padmanabhan appointed as Executive Chairman of Tata Quality Management Services", "labels": [[[7, 11], "neutral"]]}
+{"sentence": "Jeera futures edge higher 3 . 20% on export demand", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Dhaniya futures contract under regulatory glare", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Bonds yields ease on renewed risk aversion in global markets", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Jagran Prakashan reports Q2 net profit at Rs 91 . 27 crore", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Goldman sees copper , aluminum sliding amid ' cost deflation '", "labels": [[[2, 3], "negative"], [[4, 5], "negative"], [[0, 1], "neutral"]]}
+{"sentence": "Dhoni ' s CSK will play IPL , says SC ; India Cements on the ball , up 8%", "labels": [[[11, 13], "positive"]]}
+{"sentence": "E Balaji , former CEO and MD of Randstad India , joins TVS Logistics Services", "labels": [[[8, 10], "neutral"], [[12, 15], "neutral"]]}
+{"sentence": "5 tips on how to act in rising markets", "labels": [[[8, 9], "neutral"]]}
+{"sentence": "Pre - market : Nifty seen opening higher on US Federal Reserve outlook", "labels": [[[4, 5], "positive"]]}
+{"sentence": "8600 - 8620 levels to be key support area for Nifty in the coming days : Mitesh Thacker", "labels": [[[10, 11], "positive"]]}
+{"sentence": "Demand for corporate bonds falls 36% in June on monsoon worries , Greece default", "labels": [[[2, 4], "negative"]]}
+{"sentence": "Firstsource in a persistent decline : Deepak Mohoni", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Profit booking grips Sensex , top ten stocks in focus", "labels": [[[3, 4], "negative"]]}
+{"sentence": "There is great opportunity and great future for Power Grid : Sudip Bandyopadhyay", "labels": [[[8, 10], "positive"]]}
+{"sentence": "CERC tariff order : NTPC at 5 - year low , Tata Power zooms 7%", "labels": [[[11, 13], "positive"], [[4, 5], "negative"], [[0, 1], "neutral"]]}
+{"sentence": "Lock & load : Bharat Forge hits all - time high on Rafael arms JV", "labels": [[[4, 6], "positive"]]}
+{"sentence": "Innoventive Industries makes weak debut on bourses", "labels": [[[0, 2], "negative"]]}
+{"sentence": "IFCI Q1 net rises 7 . 5 per cent to Rs 102 crore", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Sundeep Bhandari resigns from Cairn India", "labels": [[[4, 6], "neutral"]]}
+{"sentence": "Edible , non - edible oils drop on subdued demand", "labels": [[[0, 1], "negative"], [[2, 6], "negative"]]}
+{"sentence": "Yellow Fever : Up to 15 - tonne gold gone in three days", "labels": [[[8, 9], "negative"]]}
+{"sentence": "Noel N Tata takes over as chairman of Trent", "labels": [[[8, 9], "neutral"]]}
+{"sentence": "TVS , Ashok Leyland , Escorts rally on strong September sales", "labels": [[[0, 1], "positive"], [[2, 4], "positive"], [[5, 6], "positive"]]}
+{"sentence": "Rapid currency trades may kill arbitrage '", "labels": [[[1, 2], "negative"]]}
+{"sentence": "8200 holds the key for Nifty ; Sensex likely to climb to 27 , 375 : Mitesh Thacker", "labels": [[[7, 8], "positive"], [[5, 6], "neutral"]]}
+{"sentence": "Private banks likely to face asset quality problems ; expect poor earnings : Hemindra Hazari", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Start exiting positions , have negative bias if Nifty breaches 8 , 900 : Mitesh Thacker", "labels": [[[8, 9], "negative"]]}
+{"sentence": "Euro/USD looking at support between $1 . 3815 - 30", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Gold holds above $1 , 300 , focus on Fed policy meeting", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Surya Pharmaceutical Q3 net up 30 . 82 pc to Rs 28 . 01 cr", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Shree Renuka Sugar , Bajaj Hindustan and EID are looking good from 2 years perspective : Gaurang Shah", "labels": [[[0, 3], "positive"], [[4, 6], "positive"], [[7, 8], "positive"]]}
+{"sentence": "Despite rupee appreciation , stay invested in IT and pharma . : Ajay Bagga", "labels": [[[7, 8], "positive"], [[9, 10], "positive"]]}
+{"sentence": "United Spirits could have the best risk - reward ratio", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Rise in healthcare stocks lifts European equities", "labels": [[[2, 4], "positive"], [[5, 7], "positive"]]}
+{"sentence": "Pre - market : Nifty seen opening flat ; may reclaim 8 , 000", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "Commodity bourse ICEX plans rights issue as part of revival plan", "labels": [[[2, 3], "neutral"]]}
+{"sentence": "Indicators pointing downwards , Nifty may break below 5 , 970 levels : Mitesh Thacker", "labels": [[[4, 5], "negative"]]}
+{"sentence": "Market sees 8% to 10% upside in this quarter : Apurva Shah", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Pearson slump drags Britain ' s FTSE lower", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Tokyo shares plunge 3 . 47% in early trade", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Securities Appellate Tribunal disposes of Sahara appeal", "labels": [[[5, 6], "negative"], [[0, 3], "neutral"]]}
+{"sentence": "GDP lifts Dow over 18k ; biotechs have worst day since April", "labels": [[[2, 3], "positive"], [[6, 7], "negative"]]}
+{"sentence": "Ten - year T - yields to stay at 2 . 5 - 3% : Pimco ' s Bill Gross", "labels": [[[16, 17], "neutral"]]}
+{"sentence": "GMDC Q3 net 4 . 71 pc down at Rs 71 . 19 cr", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Euro falls to 19 - month low versus Swiss franc on easing bets", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Currencies , stocks nudge up on China stimulus prospects", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "Hero MotoCorp replaces HUL as JPMorgan top stock to avoid", "labels": [[[3, 4], "positive"], [[0, 2], "negative"], [[5, 6], "neutral"]]}
+{"sentence": "Sagging demand may lower natural gas prices", "labels": [[[4, 6], "negative"]]}
+{"sentence": "Why Sensex churn matters to investors", "labels": [[[1, 2], "neutral"]]}
+{"sentence": "Cipla : Move to enter biotech looks opportune", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Wall Street slips from record ; focus shifts to US Federal Reserve", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Railways ' earnings up by 12%", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Low oil price , strong rupee to reduce fiscal deficit : Deutsche Bank", "labels": [[[11, 13], "neutral"]]}
+{"sentence": "Edelweiss Financial Services Q2 net up 21% at Rs 96 crore", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Vedanta appoints 3 directors on Cairn India board", "labels": [[[0, 1], "neutral"], [[5, 7], "neutral"]]}
+{"sentence": "S & P upgrade may drive FII debt flow", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Hold Financial Technologies at current level : G Chokkalingam", "labels": [[[1, 3], "neutral"]]}
+{"sentence": "Brent holds above $109 on Ukraine tensions", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Current market rally led by large caps : Ashwani Gujral", "labels": [[[5, 7], "positive"]]}
+{"sentence": "Deutsche Bank downgrades Indian equities to neutral", "labels": [[[3, 5], "negative"], [[0, 2], "neutral"]]}
+{"sentence": "Calvin Klein deal to help Arvind rise the market ladder", "labels": [[[5, 6], "positive"], [[0, 2], "neutral"]]}
+{"sentence": "Polaris Financial Technology shares surge 20% on spin - off plans", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Individuals cannot trade in forex market : RBI", "labels": [[[7, 8], "neutral"]]}
+{"sentence": "Dollar jumps on yen , gives Japanese stocks a lift", "labels": [[[0, 1], "positive"], [[6, 8], "positive"], [[3, 4], "negative"]]}
+{"sentence": "DLF ' s ratings likely to fall post ban , ratings firms to take a call", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Bombay High Court denies relief to brokers on regularization of illegal structures at BSE building", "labels": [[[13, 14], "negative"]]}
+{"sentence": "Dhanlaxmi Bank board orders 3 - year expenditure audit", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Bhartiya Group appoints G Raghavan as Bhartiya Urban CEO", "labels": [[[0, 2], "neutral"], [[6, 8], "neutral"]]}
+{"sentence": "World stocks slide as China manufacturing shrinks", "labels": [[[0, 2], "negative"], [[4, 6], "negative"]]}
+{"sentence": "Jaguar Land Rover CEO David Smith steps down", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Mastek rallies 20% in 3 days ahead of buyback proposal", "labels": [[[0, 1], "positive"]]}
+{"sentence": "European shares steady , Vodafone down after results", "labels": [[[4, 5], "negative"], [[0, 2], "neutral"]]}
+{"sentence": "MTNL snaps 18% post block deal on NSE", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Suven Life Sciences Q3 net profit jumps over four - fold", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Egypt unrest may fuel rally in oil & gas stocks", "labels": [[[6, 7], "positive"], [[8, 9], "positive"]]}
+{"sentence": "Mid caps now turn into market darlings", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Australian , New Zealand dollars slide vs sterling on early Scottish vote results", "labels": [[[0, 1], "negative"], [[2, 5], "negative"], [[7, 8], "neutral"]]}
+{"sentence": "Road developers surge after NHAI defers payments", "labels": [[[0, 2], "positive"], [[4, 5], "neutral"]]}
+{"sentence": "India likely to issue new 10 - year bond in June : sources", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Grasim good for short selling : Deepak Mohoni , trendwatchindia . com", "labels": [[[0, 1], "negative"], [[9, 12], "neutral"]]}
+{"sentence": "United Bank raises $350 million under MTN programme", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Apple shares slide in $9 . 5 billion turnover", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Indian cashew exports to touch new high this fiscal", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Sell Tata Steel Ltd with target price of Rs 336 : Sandeep Wagle", "labels": [[[1, 4], "negative"]]}
+{"sentence": "49% FDI in insurance a great move ; positives will outweigh the negatives : Jagdish Malkani , Member , NSE & BSE", "labels": [[[22, 23], "neutral"], [[20, 21], "neutral"]]}
+{"sentence": "Should you opt for richly valued stocks ?", "labels": [[[4, 7], "neutral"]]}
+{"sentence": "Slumps at Volkswagen and RSA weigh on European shares", "labels": [[[2, 3], "negative"]]}
+{"sentence": "Diageo Plc , United Spirits open offer for Pioneer Distilleries from August 28", "labels": [[[8, 10], "positive"], [[0, 2], "neutral"], [[3, 5], "neutral"]]}
+{"sentence": "Asian shares slip as China concerns trump US optimism", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Ashok Leyland shares up 3% on robust November sales", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Exit Bajaj Auto on raillies : Ashwani Gujral", "labels": [[[1, 3], "negative"]]}
+{"sentence": "Textile companies ' good run likely to last for another year", "labels": [[[0, 2], "positive"]]}
+{"sentence": "CNX IT going through a correction : Ashwani Gujral", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Yen slips to 7 - year low vs dollar ; euro hits 2 - year low", "labels": [[[0, 1], "negative"], [[10, 11], "negative"], [[8, 9], "neutral"]]}
+{"sentence": "Shoppers Stop elevates Salil Nair to CEO", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Hindalco : Rising input costs a worry , but buoyant demand may help", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Piramal Enterprises integrates realty finance businesses", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "AAP effect : After sizzling 2013 , foggy start for Sensex in 2014", "labels": [[[10, 11], "neutral"]]}
+{"sentence": "Domestic rubber prices surge above Rs 200/Kg", "labels": [[[0, 2], "positive"]]}
+{"sentence": "J & K Bank Q1 net profit rises 35 per cent to Rs 246 crore", "labels": [[[0, 4], "positive"]]}
+{"sentence": "Capital goods names like Cummins , Voltas and Engineers India to fetch returns : Manish Sonthalia", "labels": [[[4, 5], "positive"], [[6, 7], "positive"], [[8, 10], "positive"]]}
+{"sentence": "Lower fuel subsidy lifts ONGC Q3 profit 23 pc", "labels": [[[4, 5], "positive"]]}
+{"sentence": "MT Educare allots 17 . 38 lakh shares to anchor investors", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Selling pressure on Tata Steel : Seshadri Bharathan", "labels": [[[3, 5], "negative"]]}
+{"sentence": "Motherson Sumi Systems Q4 net down 2 pc at Rs 138 . 90 cr", "labels": [[[0, 3], "negative"]]}
+{"sentence": "RIL , oil PSUs could contribute to markets inching higher : Deven Choksey", "labels": [[[0, 1], "positive"], [[2, 4], "positive"]]}
+{"sentence": "Rupee rises to over 6 - month high vs US dollar on FII inflows", "labels": [[[0, 1], "positive"], [[9, 11], "neutral"]]}
+{"sentence": "Quick Heal may be India ' s first pure software co to take the IPO route", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Swiss Finance Corp buys 70 lakh Apollo Tyres shares for Rs 50 cr", "labels": [[[6, 8], "positive"], [[0, 3], "neutral"]]}
+{"sentence": "Month on month sales numbers of auto sector have improved : Gaurang Shah , Geojit BNP Paribas Financial Services", "labels": [[[6, 8], "positive"], [[14, 19], "neutral"]]}
+{"sentence": "Mining stocks down as iron ore hits 5 - 1/2 year low", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Career Point erases gains ; falls 1 . 54 pc on BSE", "labels": [[[0, 2], "negative"], [[11, 12], "neutral"]]}
+{"sentence": "UBS sceptical about Infosys Vision 2020 - companys growth plan over the next five years", "labels": [[[3, 4], "negative"], [[0, 1], "neutral"]]}
+{"sentence": "Hold HCL Tech and other IT stocks : G Chokkalingam", "labels": [[[1, 3], "neutral"], [[5, 7], "neutral"]]}
+{"sentence": "China yuan retreats from near 5 - month high versus US dollar", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Dollar , euro surge in Asian trade", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "BSE currency derivatives volume at Rs 2 , 000 - cr mark", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Brokerage views on Tech Mahindra , Sesa Goa , United Spirits , PFC", "labels": [[[3, 5], "neutral"], [[6, 8], "neutral"], [[9, 11], "neutral"], [[12, 13], "neutral"]]}
+{"sentence": "Kolkata - based firms rally on Trinamool win , ITC top gainer", "labels": [[[9, 10], "positive"]]}
+{"sentence": "WNS appoints Ronald Gillette as Chief Operating Officer", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "China , Hong Kong stocks rise as fears of near - term U . S rate hike recede", "labels": [[[0, 1], "positive"], [[2, 5], "positive"]]}
+{"sentence": "Tea prices are likely to rally : Vijay Bhambwani , BSPLindia . com", "labels": [[[0, 1], "positive"], [[10, 13], "neutral"]]}
+{"sentence": "Day trading guide by Motilal Oswal Securities", "labels": [[[4, 7], "neutral"]]}
+{"sentence": "Pressure on rupee continues on dollar strength ; here ' s why RBI will not let it depreciate", "labels": [[[5, 6], "positive"], [[2, 3], "negative"]]}
+{"sentence": "Sinking Chinese stock market : How exposed are you , how did the bubble begin", "labels": [[[1, 4], "negative"]]}
+{"sentence": "Asia shares slip on Greek default fears , Fed meeting awaited", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Polaris is a buy : Ashwani Gujral , Market Strategist", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Avoid taking risks in pharma sector : Nitin Raheja", "labels": [[[4, 6], "negative"]]}
+{"sentence": "Sona Koyo Steering Systems Q2 net up at Rs 12 . 62 crore", "labels": [[[0, 4], "positive"]]}
+{"sentence": "Could diamond be the new gold for traders ?", "labels": [[[1, 2], "neutral"], [[5, 6], "neutral"]]}
+{"sentence": "Masket Q2 numbers disappoint ; IT firms struggling : Mayuresh Joshi", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Nifty heading towards key support zones of 6570 - 6650 : Ashwani Gujral", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Brokers should not bank on one IT vendor : Sebi", "labels": [[[9, 10], "neutral"], [[6, 8], "neutral"]]}
+{"sentence": "Mutual Funds bet big on small companies", "labels": [[[5, 7], "positive"]]}
+{"sentence": "Strides ' Q4 profit jumps 47 - fold to Rs 3 , 525 crore on investment sale", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Gold remains steady in line with international sentiment", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Media space looks more promising than last year : Taher Badshah", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Odds of US Federal Reserve tightening monetary policy have increased : Christopher Wood , CLSA", "labels": [[[14, 15], "neutral"]]}
+{"sentence": "Oil slips below $105 on oversupply , weak demand", "labels": [[[0, 1], "negative"]]}
+{"sentence": "HDIL Q2 net profit down 70% at Rs 42 . 7 crore ; income up 66%", "labels": [[[0, 1], "negative"]]}
+{"sentence": "HCL Infosystems announces key additions to its Board of Directors", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Cipla pares gains after rallying nearly 6% post Q3 results", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Hopeful of Tata Motors , Maruti in auto pack : Dimensions Consulting", "labels": [[[2, 4], "positive"], [[5, 6], "positive"], [[10, 12], "neutral"]]}
+{"sentence": "Sterling falls back after BoE minutes", "labels": [[[0, 1], "negative"], [[4, 5], "neutral"]]}
+{"sentence": "IT companies may not enjoy the rupee edge for long", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Renuka Sugars a good buy : Devang Visaria", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Aditya Birla Private Equity to pick up 8% stake in Indian Energy Exchange Ltd for Rs 136 Crore", "labels": [[[11, 15], "positive"], [[0, 4], "neutral"]]}
+{"sentence": "Fewer investors trade on Multi Commodity Exchange", "labels": [[[4, 7], "neutral"]]}
+{"sentence": "Suggest to put money into PSU names from a long term perspective : Sudip Bandyopadhyay", "labels": [[[5, 6], "positive"]]}
+{"sentence": "Rice , soya pick up on better rains", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "Have ' sell ' rating on Tata Motors ; prefer Hero MotoCorp among auto stocks : Harendra Kumar", "labels": [[[10, 12], "positive"], [[6, 8], "negative"]]}
+{"sentence": "Cabinet to take up PSU ETF proposal on Wednesday", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "Bank on the lenders for superb returns in 2016", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Sebi to tweak employee stock option norms", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "SIC Global launches Stockal , Indias first mobile - based platform for global investments", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "How Sensex moved in the last five RBI policy review meetings", "labels": [[[1, 2], "neutral"]]}
+{"sentence": "Some big banking stocks may see upside in near term : Avinash Gorakssakar", "labels": [[[2, 4], "positive"]]}
+{"sentence": "MFs dominate among 20 buyers of Rs 1 , 000 crore Tech Mahindra shares", "labels": [[[11, 13], "positive"]]}
+{"sentence": "Ficci establishes centre for corporate governance", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Top Ramen maker , Nissin Foods , appoints Gautam Sharma as India MD", "labels": [[[4, 6], "neutral"]]}
+{"sentence": "Pharma stocks need to consolidate : Ashwani Gujral", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "REC excellent long term uptrend : Deepak Mohoni", "labels": [[[0, 1], "positive"]]}
+{"sentence": "ZEE Q2 net at Rs 216 . 3 cr", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Infosys riding on Vishal Sikka anticipated turnaround strategy : P Phani Sekhar", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "191 - 192 is where price of NTPC to come in next few trading sessions : Sandeep Wagle", "labels": [[[7, 8], "neutral"]]}
+{"sentence": "Bet on Technocraft for strong export play , cheap valuations", "labels": [[[2, 3], "positive"]]}
+{"sentence": "Zinc futures fall 0 . 17 per cent on low spot demand , weak global cues", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Condition not in favor of JP Associates : Deven Choksey", "labels": [[[5, 7], "negative"]]}
+{"sentence": "Morgan Stanley sees 30% upside in Reliance Communications post Rs 1200 cr deal", "labels": [[[7, 9], "positive"], [[0, 2], "neutral"]]}
+{"sentence": "JBM Auto Q1 net profit soars 60 per cent", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Iraqi turmoil hits Turkish assets , emerging markets lacklustre", "labels": [[[3, 5], "negative"]]}
+{"sentence": "Output not stretched , says Rubber Board", "labels": [[[5, 7], "neutral"]]}
+{"sentence": "China state - owned margin finance corp says to ensure market stability", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "GlaxoSmithKline Consumer Healthcare Q2 net up 29% to Rs 106 crore", "labels": [[[0, 3], "positive"]]}
+{"sentence": "5 Pharma stocks that propelled BSE Healthcare to lifetime high", "labels": [[[5, 7], "positive"]]}
+{"sentence": "Sebi proposes stricter rules for securitisation deal trustees", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Market seeing patience , if not conviction : Prakash Diwan", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Volatility of earnings stream is lower in large cap IT : Prateek Agarwal", "labels": [[[7, 10], "negative"]]}
+{"sentence": "May 29 , 2014 : Mecklai Financial report on rupee", "labels": [[[5, 7], "neutral"]]}
+{"sentence": "SKS Microfinance scrip tanks 5 pc on BSE", "labels": [[[0, 2], "negative"], [[7, 8], "neutral"]]}
+{"sentence": "Who shot down China bull ? Regulator says hunt is on ; Shanghai ends 6% down , slips 30% in 3 weeks ; what experts say", "labels": [[[3, 4], "negative"], [[12, 13], "negative"]]}
+{"sentence": "Zain success holds key to Bharti ' s future growth", "labels": [[[5, 6], "positive"], [[0, 1], "positive"]]}
+{"sentence": "Euro , dollar on soft ground over Ukraine , ECB comment", "labels": [[[0, 1], "neutral"], [[2, 3], "neutral"]]}
+{"sentence": "Sebi wants young , high - earning worker pension money in MFs", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Upbeat earnings lift European shares , China still a drag", "labels": [[[3, 5], "positive"]]}
+{"sentence": "Dalmia Cement may sell stake to raise Rs 1 , 200 cr", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Stock exchanges are fighting a global war for listings", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Expect Moil cash reserves to match its mcap in 2 years : G Chokkalingam", "labels": [[[1, 2], "neutral"]]}
+{"sentence": "Mark Mobius expects 15 - 20% returns from Indian markets", "labels": [[[9, 11], "neutral"]]}
+{"sentence": "Standard Chartered appoints former SBI chief OP Bhatt as board member", "labels": [[[0, 2], "neutral"], [[4, 5], "neutral"]]}
+{"sentence": "January 31 , 2014 : Mecklai Financial report on rupee", "labels": [[[5, 7], "neutral"], [[9, 10], "neutral"]]}
+{"sentence": "UP Elections : Sugar stocks like Bajaj Hindusthan , Dhampur Sugar rise amid election results", "labels": [[[6, 8], "positive"], [[9, 11], "positive"]]}
+{"sentence": "Nikkei rises to 1 1/2 - week high ; financials track U . S . counterparts", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Sensex ends flat , above 25000 ; Nifty holds 7450", "labels": [[[0, 1], "neutral"], [[7, 8], "neutral"]]}
+{"sentence": "RCOM plans to sell 5% in tower business", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Gallantt Ispat lists with 4 pc premium at Rs 52", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Non - subsidy current spends should be minimised : JP Morgan", "labels": [[[9, 11], "neutral"]]}
+{"sentence": "Almond futures extend losses on increased supply", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Cooling unit turns it on for Voltas", "labels": [[[6, 7], "positive"]]}
+{"sentence": "Sell Hexaware with target price of Rs 109 : Prakash Gaba", "labels": [[[1, 2], "negative"]]}
+{"sentence": "JK Tyre & Industries to consider stock split", "labels": [[[0, 4], "neutral"]]}
+{"sentence": "Dismal US retail sales data lifts Asia Forex , South Korean Won up ahead of central bank rate decision", "labels": [[[6, 8], "positive"], [[9, 12], "positive"], [[1, 3], "negative"]]}
+{"sentence": "L & T , BHEL are available at attractive levels : Suresh Mahadevan , UBS Securities", "labels": [[[0, 3], "positive"], [[4, 5], "positive"], [[14, 16], "neutral"]]}
+{"sentence": "Overall IT sector remains compelling : Taher Badshah", "labels": [[[1, 3], "positive"]]}
+{"sentence": "2G auction : Telecom stocks seen correcting , call charges may get higher", "labels": [[[3, 5], "negative"]]}
+{"sentence": "10 - year bond falls on profit - booking", "labels": [[[0, 4], "negative"]]}
+{"sentence": "What ' s stopping rupee from appreciating beyond 60 ?", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "DLF seeks shareholders nod to raise Rs 5 , 000 crore via non - convertible debentures", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Outperformance of CNX IT may not continue : Ashwani Gujral", "labels": [[[2, 4], "neutral"]]}
+{"sentence": "Concerned over grey market growth , Sebi calls for one regulator", "labels": [[[6, 7], "neutral"]]}
+{"sentence": "MMTC stake sale offer likely to hit markets this month", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Indonesia , Russia gains push emerging stocks to new 17 - month high", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "Wipro appoints senior VP Jeff Heenan - Jalil to board of Opera Solutions", "labels": [[[0, 1], "neutral"], [[11, 13], "neutral"]]}
+{"sentence": "SSTL Q4 net loss significantly narrows at Rs 445 cr", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Coriander , turmeric fall on subdued demand", "labels": [[[0, 1], "negative"], [[2, 3], "negative"]]}
+{"sentence": "Evening trading for agricultural commodities to help farmers , traders '", "labels": [[[3, 5], "neutral"]]}
+{"sentence": "Many promoters still own physical shares despite Sebi mandate on dematerialisation of shares", "labels": [[[7, 8], "neutral"]]}
+{"sentence": "Gillette India ' s sale offer subscribed 14% ; stock surges", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Seeing broader participation in market ; Nifty may revisit 8 , 050 : Ashwani Gujral", "labels": [[[6, 7], "neutral"]]}
+{"sentence": "State government companies lure PFs with high - return bond issues", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Samsonite International appoints Ramesh Tainwala as global COO", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Sintex Industries rallies over 7% post Q4 results", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Coal India 34% subscribed on Day 1", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Crunch time in bond market this week", "labels": [[[3, 4], "negative"]]}
+{"sentence": "Unusual trades in December series Nifty options under Sebi lens", "labels": [[[8, 9], "neutral"]]}
+{"sentence": "HSIL falls nearly 4% after approving QIP at discount to floor price", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Investor flight from US stocks fails to lift bond market", "labels": [[[3, 5], "negative"]]}
+{"sentence": "Here are the 10 big market stories that will dominate 2015", "labels": [[[5, 6], "neutral"]]}
+{"sentence": "Wall Street falls , Dow in negative territory for 2014", "labels": [[[4, 5], "negative"], [[0, 2], "negative"]]}
+{"sentence": "Wonderla Holidays debuts on bourses , IPO looks a good bet , say brokerages", "labels": [[[0, 2], "positive"]]}
+{"sentence": "CPSE ETF debuts ; surges over 11 pc", "labels": [[[0, 2], "positive"]]}
+{"sentence": "T - Bill volatility a warning shot to investors , says JPMorgan head Jamie Dimon", "labels": [[[11, 12], "neutral"]]}
+{"sentence": "Ramky Infrastructure faces rising interest cost", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Mid - caps could outperm large - caps in 6 - 12 months : Hemang Jani", "labels": [[[0, 3], "positive"], [[5, 8], "neutral"]]}
+{"sentence": "Global markets feel winter chill as uncertainties rise", "labels": [[[0, 2], "negative"]]}
+{"sentence": "China funds raise equity allocations as buy - in opportunities rise", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "PFC to start selling Rs 1 , 000 cr tax - free bonds tomorrow", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "IIFCL to raise up to Rs 1 , 200 cr from infra bond issue", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Long trade time for SGX Nifty futures no threat to NSE biz", "labels": [[[4, 6], "neutral"], [[10, 11], "neutral"]]}
+{"sentence": "Reliance Industries posts flat quarterly earnings , beats expectations", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Mutual funds sell IT , banking stocks in March ; go long on auto , pharma", "labels": [[[13, 14], "positive"], [[15, 16], "positive"], [[3, 4], "negative"], [[5, 6], "negative"]]}
+{"sentence": "General Atlantic Partners picks up strategic stake in CitiusTech", "labels": [[[8, 9], "positive"], [[0, 3], "neutral"]]}
+{"sentence": "Noel Tata takes over as Chairman of Tata Group ' s logistic arm", "labels": [[[7, 9], "neutral"]]}
+{"sentence": "China , Hong Kong stocks rise , banks surge on local govt debt scheme", "labels": [[[0, 1], "positive"], [[2, 5], "positive"], [[7, 8], "positive"]]}
+{"sentence": "Bets on crude surge ahead of OPEC meet", "labels": [[[2, 3], "positive"], [[6, 7], "neutral"]]}
+{"sentence": "See 7900 - 7950 as key resistance level for Nifty : Gaurav Mehta", "labels": [[[9, 10], "negative"]]}
+{"sentence": "Berger Paints logs 35% increase in Q1 net profit", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Sell ACC Ltd with target of Rs 1370 : Sandeep Wagle", "labels": [[[1, 3], "negative"]]}
+{"sentence": "Motilal Oswal forecasts achhe din for stock market in 2016", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Forex soft , with Fed outweighing migrant crisis worries", "labels": [[[0, 1], "negative"], [[4, 5], "neutral"]]}
+{"sentence": "Chennai Petro surges over 35% in two day on high volumes", "labels": [[[0, 2], "positive"]]}
+{"sentence": "HNIs buy Honeywell Automation auto shares on delisting report", "labels": [[[2, 4], "positive"]]}
+{"sentence": "HCC rallies over 12% as Lavasa gets Sebi nod to raise Rs 750 cr via IPO", "labels": [[[0, 1], "positive"], [[6, 7], "positive"], [[8, 9], "neutral"]]}
+{"sentence": "Select base metals fall on lower global trend", "labels": [[[1, 3], "negative"]]}
+{"sentence": "IndusInd Bank shares fall over four per cent on RBI move", "labels": [[[0, 2], "negative"], [[9, 10], "neutral"]]}
+{"sentence": "Pharma , cement will continue to perform : IIFL Wealth", "labels": [[[0, 1], "positive"], [[2, 3], "positive"], [[8, 10], "neutral"]]}
+{"sentence": "Build positions around PSU banking space ; bet on Canara , BOB , PNB , SBI : Ashwani Gujral", "labels": [[[3, 6], "positive"], [[9, 10], "positive"], [[11, 12], "positive"], [[13, 14], "positive"], [[15, 16], "positive"]]}
+{"sentence": "NSE to auction limits in bonds for foreign investors", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Bank of America finds a $4 bn mistake ; suspends buyback , dividend hike plans", "labels": [[[0, 3], "negative"]]}
+{"sentence": "Crisil shares hit 52 - week high as net profits rises by 38 . 5%", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Shree Renuka Sugars ends 6% down on Wilmar deal : To sell the stock or not ?", "labels": [[[0, 3], "negative"], [[8, 9], "neutral"]]}
+{"sentence": "Shell Lubricants appoints Nitin Prasad as India head", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Muted demand drags down chana futures by 1 . 17%", "labels": [[[4, 5], "negative"]]}
+{"sentence": "Sebi proposes new listing & disclosure requirement norms", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "MD CP Gurnani sells 1 . 46 lakh shares of Tech Mahindra for Rs 15 . 51 crore", "labels": [[[10, 12], "negative"], [[0, 3], "neutral"]]}
+{"sentence": "Nickel jumps nearly 5 per cent , copper hits 2 - month top", "labels": [[[0, 1], "positive"], [[7, 8], "positive"]]}
+{"sentence": "FIIs stake in Infosys hit 9 - year high of 42% in January - March quarter", "labels": [[[3, 4], "positive"]]}
+{"sentence": "Infra stocks will remain under some pressure : Dhiraj Agarwal , Standard Chartered Capital", "labels": [[[0, 2], "negative"], [[11, 14], "neutral"]]}
+{"sentence": "Dow , S & P close at record highs as rate - hike angst abates", "labels": [[[0, 1], "positive"], [[2, 5], "positive"]]}
+{"sentence": "Sesa Sterlite reports Rs 1 , 621 . 55 crore net profit in Q4", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Valuation concerns loom over infra , engineering counters : IV Subramaniam", "labels": [[[4, 5], "negative"], [[6, 8], "negative"]]}
+{"sentence": "Anshu Jain joins IIF board", "labels": [[[3, 4], "neutral"]]}
+{"sentence": "NCDEX hikes transaction charges on agri - commodities", "labels": [[[5, 8], "negative"], [[0, 1], "neutral"]]}
+{"sentence": "Stocks like PVR , RComm and Tech Mahindra prop up mutual fund schemes", "labels": [[[2, 3], "positive"], [[4, 5], "positive"], [[6, 8], "positive"]]}
+{"sentence": "Hero MotoCorp appoints Sanjay Jorapur as Chief HR Officer", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "REC board approves raising Rs 3 , 000 cr through tax - free bonds", "labels": [[[0, 1], "positive"]]}
+{"sentence": "IMFA Q1 net drops 64% on lower demand for ferro alloys", "labels": [[[0, 1], "negative"], [[10, 12], "negative"]]}
+{"sentence": "Satisfactory PAT nos from FMCG majors : Networth Stock Broking", "labels": [[[4, 5], "neutral"], [[7, 10], "neutral"]]}
+{"sentence": "Gemini Communications Q4 net jumps over 3 - fold to Rs 15 . 75cr", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Mirc Electronics hits upper circuit on Videocon stake buy buzz", "labels": [[[0, 2], "positive"], [[6, 7], "neutral"]]}
+{"sentence": "Aluminium trades at lower level on global cues , low spot demand", "labels": [[[0, 1], "negative"]]}
+{"sentence": "CLSA sees Nifty breaching 7 , 000 in the near term ; BHEL , L & T may see further upside", "labels": [[[2, 3], "positive"], [[12, 13], "positive"], [[14, 17], "positive"]]}
+{"sentence": "Prices of base metals move up on global cues", "labels": [[[2, 4], "positive"]]}
+{"sentence": "TCS : Biggest value creator among top IT companies", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Clariant Chemicals posts Rs 166 . 77 crore net profit in 2013", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Maharashtra Seamless ' Board approves Rs 100 crore share buy back", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Maruti , BoB may be among MSCI India index picks", "labels": [[[0, 1], "positive"], [[2, 3], "positive"], [[6, 8], "neutral"]]}
+{"sentence": "Uninor CEO Yogesh Malik quits ; Sigve Brekke made interim CEO", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "SBI ' s Bhushan Steel bail out plan may face hurdles as lenders turn unsupportive", "labels": [[[0, 1], "negative"], [[3, 5], "negative"]]}
+{"sentence": "Gold recovers on scattered buying ; silver remains weak", "labels": [[[0, 1], "positive"], [[6, 7], "negative"]]}
+{"sentence": "Thyrocare considering IPO to allow investors to exit ; company is being valued at around Rs 1 , 500 crore", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Servalakshmi Paper debuts at over 3 pc premium on BSE", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Chilli futures up by 0 . 31 per cent on rising demand", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Cover up all positions for SBI : Mitesh Thacker", "labels": [[[5, 6], "neutral"]]}
+{"sentence": "Currency wars : Dollar vs yuan vs euro through the ages", "labels": [[[3, 4], "neutral"], [[5, 6], "neutral"], [[7, 8], "neutral"]]}
+{"sentence": "Iran deal fires Sensex 388 points : How it benefits India", "labels": [[[3, 4], "positive"]]}
+{"sentence": "Upbeat data lifts dollar off lows , sterling near 5 - 1/2 - year high", "labels": [[[3, 4], "positive"], [[7, 8], "positive"]]}
+{"sentence": "Decision on Cairn - Vedanta deal today ; stock up", "labels": [[[2, 5], "positive"]]}
+{"sentence": "Samsung Electronics jumps over 4 per cent on restructuring speculation", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Mukund Abhyankar has been elected as chairman of NAFCUB", "labels": [[[8, 9], "neutral"]]}
+{"sentence": "Alkem , Dr Lal PathLabs to make stock market debut on December 23", "labels": [[[0, 1], "neutral"], [[2, 5], "neutral"]]}
+{"sentence": "Auto , realty , bank stocks trading mixed ahead of RBI policy meet", "labels": [[[0, 1], "neutral"], [[2, 3], "neutral"], [[4, 6], "neutral"]]}
+{"sentence": "Alkem Laboratories $200 mln IPO fully subscribed - exchanges", "labels": [[[0, 2], "positive"]]}
+{"sentence": "MRPL : Outlook positive due to better margins , capex", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Have a buy on Ballarpur : Devang Visaria , devangvisaria . com", "labels": [[[4, 5], "positive"]]}
+{"sentence": "Hero MotoCorp October sales declines 8% ; stock down", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Shareholders miffed at Tata Motors ' missed payout", "labels": [[[3, 5], "negative"]]}
+{"sentence": "Bonds retreats on fresh selling ; call rates recover", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Commexes extended trade hours hit a roadblock", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Onno Ruhl appointed World Bank Country Director for India", "labels": [[[3, 5], "neutral"], [[8, 9], "neutral"]]}
+{"sentence": "Rupee seen lower on opening against dollar strength", "labels": [[[0, 1], "negative"]]}
+{"sentence": "IVRCL : Debt pile , slow progress of projects weigh down the company", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Buy AB Nuvo Ltd with a target of Rs 1925 : Mitesh Thacker", "labels": [[[1, 4], "positive"]]}
+{"sentence": "China yuan edges down on weak midpoint and FDI data", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Universal Commodity Exchange launch likely by Diwali : Ketan Sheth", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Abhay Kumar Singh is new CEO of SBI Cards", "labels": [[[7, 9], "neutral"]]}
+{"sentence": "Stay away from PSU banks until reforms kick in : Nitin Raheja", "labels": [[[3, 5], "negative"]]}
+{"sentence": "PNC Infratech IPO to resume tomorrow", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Aptech ' s roof on the upside is 115 to 117 : Ashwani Gujral , Market Strategist", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Heres why FIIs will go long on India and short on Indonesia", "labels": [[[7, 8], "neutral"], [[11, 12], "neutral"]]}
+{"sentence": "Sahara chief Subrata Roy should be punished for contempt : SEBI to Supreme Court", "labels": [[[0, 1], "negative"], [[10, 11], "neutral"]]}
+{"sentence": "Iraq jitters hit European shares , German bond yields slip", "labels": [[[6, 8], "positive"], [[3, 5], "negative"]]}
+{"sentence": "ICICI Bank Q1 PAT at Rs 2274 crore", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Sebi seeks clarification from 3 firms on IPO plans", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Interest is returning to the large caps : Deepak Mohoni", "labels": [[[5, 7], "positive"]]}
+{"sentence": "Next 3 years will be transformational for RIL , says Mukesh Ambani", "labels": [[[7, 8], "positive"]]}
+{"sentence": "Chandan Deep Singh Dang appointed as Chief Marketing Officer of Tupperware India", "labels": [[[10, 12], "neutral"]]}
+{"sentence": "Q1 earnings : Loss widens for Suzlon Energy on high interest cost", "labels": [[[6, 8], "negative"]]}
+{"sentence": "Abbott Labs up 100% in 15 months , still not expensive : Mehraboon Irani", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Anand Selva appointed as consumer banking head of Citibank", "labels": [[[8, 9], "neutral"]]}
+{"sentence": "SAT upholds Sebi order in Aditya International case", "labels": [[[2, 3], "neutral"], [[5, 7], "neutral"]]}
+{"sentence": "Gold trading flat , reflecting overseas trend", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Mercator Lines rises on plan to invest in Indonesia", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Chilli , coriander fall on sluggish demand", "labels": [[[0, 1], "negative"], [[2, 3], "negative"]]}
+{"sentence": "Gold falls from 2 - month high , physical buying lags", "labels": [[[0, 1], "negative"]]}
+{"sentence": "SELL OBC with a target of Rs 170 : Mitesh Thacker", "labels": [[[1, 2], "negative"]]}
+{"sentence": "NCDEX initiative has Gulab Bagh reaping big with maize contracts", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "NHAI bond issue sees spectacular response ; subscribed 3 times on day 1", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Bhusan Steel surges 14% as asset sale fetches Rs 3 , 000 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Robust loan growth , margin lift HDFC Bank Q2 net 33%", "labels": [[[6, 8], "positive"]]}
+{"sentence": "Just Dial gains over 2% on Credit Suisse upgrade , Tiger Global stake sale", "labels": [[[0, 2], "positive"], [[7, 9], "neutral"], [[11, 13], "neutral"]]}
+{"sentence": "Bond yields inch higher ; auction in focus", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Sebi attaches accounts of former Ranbaxy director , wife", "labels": [[[0, 1], "neutral"], [[5, 6], "neutral"]]}
+{"sentence": "Refined palmolein regains on renewed demand", "labels": [[[0, 2], "positive"]]}
+{"sentence": "UK - based ARC Ratings to soon grade India", "labels": [[[0, 1], "neutral"], [[3, 5], "neutral"]]}
+{"sentence": "Valentine Day lifts stocks of Hanung Toys , Archies on BSE", "labels": [[[5, 7], "positive"], [[8, 9], "positive"], [[10, 11], "neutral"]]}
+{"sentence": "European shares slip , Vodafone drops after results", "labels": [[[0, 2], "negative"], [[4, 5], "negative"]]}
+{"sentence": "August 7 , 2014 : Mecklai Financial report on Rupee", "labels": [[[5, 7], "neutral"]]}
+{"sentence": "Exposure to industry makes ICICI Bank unattractive to investors : Deepak Shenoy", "labels": [[[4, 6], "negative"]]}
+{"sentence": "Currency - hedged ETFs outperform , pick up inflows as dollar gains", "labels": [[[10, 11], "positive"]]}
+{"sentence": "Difficult to sustain 6000 at Nifty in next few days : Ashwani Gujral", "labels": [[[5, 6], "neutral"]]}
+{"sentence": "Dhanlaxmi Bank on downtrend : Ashwani Gujral", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Nickel futures marginally up on spot demand", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Moil ' s net rises 26 pc to Rs 588 cr in FY ' 10 - 11", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Dhanteras gold , silver sales to surge on lower prices", "labels": [[[1, 2], "positive"], [[3, 4], "positive"]]}
+{"sentence": "Jet Airways trims losses in Q1 ; stock gains", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Suven Life Sciences Q2 flat at Rs 25 crore", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Dow drops 300 points as US stocks plunge", "labels": [[[0, 1], "negative"], [[5, 7], "negative"]]}
+{"sentence": "Karvy Financial Services plans to raise around Rs 600 crore from PEs", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Japanese shares lose steam , Asian shares slip", "labels": [[[0, 2], "negative"], [[5, 7], "negative"]]}
+{"sentence": "Euro heads towards 9 - month lows , Germany ZEW survey seen weak", "labels": [[[0, 1], "negative"]]}
+{"sentence": "North America puts its drilling projects on hold , guar slips", "labels": [[[9, 10], "negative"]]}
+{"sentence": "Jimmy Choo IPO pricing values firm at up to $1 . 1 billion", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "SC dismisses Sebi ' s plea for insider trading charges against Samir Arora", "labels": [[[2, 3], "neutral"]]}
+{"sentence": "Ketan Mehta eyes $10 mn from PE players for Maya", "labels": [[[10, 11], "neutral"]]}
+{"sentence": "US stocks : Wall Street ends down 5th session ; oil prices fall further", "labels": [[[3, 5], "negative"], [[10, 11], "negative"]]}
+{"sentence": "Firstsource may appreciate between 40 - 80% in next nine months : Mehraboon Irani", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Oil prices mixed ahead of US stockpiles report", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Market movers : Top 5 policy triggers government initiated in November", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Shipping Corporation has seen a lot of upside : Gautam Shah , JM Financial", "labels": [[[0, 2], "positive"], [[12, 14], "neutral"]]}
+{"sentence": "HDFC Bank gains ; MSCI changes become effective", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Volatile markets end higher ; Sensex closes higher by 185 points", "labels": [[[5, 6], "positive"]]}
+{"sentence": "Rupee weakens in line with Asia as US Federal Reserve seen hawkish", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Risk - reward is pretty positive in Bajaj Holdings : Ashwani Gujral", "labels": [[[7, 9], "positive"]]}
+{"sentence": "S & P 500 posts biggest weekly decline since 2012", "labels": [[[0, 4], "negative"]]}
+{"sentence": "Heidelberg Cement India to raise Rs 370 - cr through NCDs", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "United Breweries gains 28% in four days on bourses , valuations look stretched", "labels": [[[0, 2], "positive"]]}
+{"sentence": "R Chandrashekhar takes over as Nasscom President", "labels": [[[5, 6], "neutral"]]}
+{"sentence": "Cos to host ' material ' details on websites for 5 yrs : Sebi", "labels": [[[13, 14], "neutral"]]}
+{"sentence": "MMTC zooms 21% on bonus issue , stock split plans", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Cognizant posts its best figures in its 21 year history ; shares surge over 8% on Nasdaq", "labels": [[[0, 1], "positive"], [[17, 18], "positive"]]}
+{"sentence": "Remain bullish on SKF India , MRF : Mehraboon Irani , Nirmal Bang Securities", "labels": [[[3, 5], "positive"], [[6, 7], "positive"], [[11, 14], "neutral"]]}
+{"sentence": "Radico Khaitan : Promising stock among ailing liquor space", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Copper , lead strengthen on global cues , spot demand", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "Book profits in OMC stocks : Ambareesh Baliga", "labels": [[[3, 5], "negative"]]}
+{"sentence": "Panacea to launch breast cancer drug ; stock down", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Worst is not over ; Nifty could go down to sub - 7500 level : Sandeep Wagle", "labels": [[[5, 6], "negative"]]}
+{"sentence": "Crompton Greaves can go up to 136 - 144 levels : Mitesh Thacker", "labels": [[[0, 2], "positive"]]}
+{"sentence": "IDFC slipped nearly 1% as it brings down FII limit to 48%", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Development Corporation Bank a unique player in MSME segment : Avinnash Gorakssakar", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Turkey stocks tumble 6% , lira hits record low amid political uncertainty", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Uco Bank reports four - fold rise in Q2 net profit", "labels": [[[0, 2], "positive"]]}
+{"sentence": "India Cement Q3 net dips 98%", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Guargum futures slip 2% on weak domestic , overseas cues", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Farmers reap a tidy profit as turmeric prices shoot up", "labels": [[[6, 7], "positive"]]}
+{"sentence": "TCS , MindTree and Persistent Systems are good bets in the IT space : Dipan Mehta", "labels": [[[0, 1], "positive"], [[2, 3], "positive"], [[4, 6], "positive"]]}
+{"sentence": "Chennai Petro cracks 15% after posting net losses in Q2", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Reliance Capital Q4 profit at Rs 267 crore", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Structured deals involving Nifty options to disappoint investors", "labels": [[[3, 4], "negative"]]}
+{"sentence": "Suven Life Sciences Q1 net up 16 . 68% at Rs 34 . 74 cr", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Overweight on PSU banks , like private banks more : S Naren", "labels": [[[2, 4], "positive"], [[6, 8], "positive"]]}
+{"sentence": "DLF slips over 4% as Q1 net profit slips on lower home sales", "labels": [[[0, 1], "negative"]]}
+{"sentence": "MSCI launches low - carbon emission , fossil fuel reserve indices", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Jyothy Labs registers 89 . 9% jump in net profit in Q2 FY15", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Sell ICICI Bank with a target of Rs 1390 : Sandeep Wagle", "labels": [[[1, 3], "negative"]]}
+{"sentence": "Key thing for OMCs is the subsidy sharing pattern : India Infoline", "labels": [[[3, 4], "neutral"], [[10, 12], "neutral"]]}
+{"sentence": "New rules on delivery instruction slips from October : Sebi", "labels": [[[9, 10], "neutral"]]}
+{"sentence": "India valuations are less compelling , says Goldman Sachs", "labels": [[[7, 9], "neutral"]]}
+{"sentence": "Diversification is key for success of EPC business : M Goutham Reddy , Ramky Infrastructure", "labels": [[[13, 15], "neutral"]]}
+{"sentence": "Sell UCO Bank with a target of Rs 61 : Sandeep Wagle", "labels": [[[1, 3], "negative"]]}
+{"sentence": "TCS : Well - poised for a stronger year ahead", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Top five reasons why Deutsche Bank cut Indian markets to ' neutral '", "labels": [[[7, 9], "negative"], [[4, 6], "neutral"]]}
+{"sentence": "SeQuent Scientific surges ; foreign investors buy shares", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Subsidy phase - out will drive further upside in oil & gas stocks : Deven Choksey , KR Choksey Sec", "labels": [[[9, 13], "positive"], [[17, 20], "neutral"]]}
+{"sentence": "Gloomy French data hits European stocks , Iraq keeps oil high", "labels": [[[9, 10], "positive"], [[4, 6], "negative"]]}
+{"sentence": "Underweight on capital goods , industrials and utilities : David Pezarkar", "labels": [[[2, 4], "negative"], [[5, 6], "negative"], [[7, 8], "negative"]]}
+{"sentence": "Birla Sun Life appoints group co head Jayant Dua as CEO", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Markets ahead : Is it lull before the storm on Dalal Street ?", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Cardamom prices soften 0 . 34% on profit - booking", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Credit Suisse downgrades Coal India , says ' it no longer cheaper '", "labels": [[[3, 5], "negative"], [[0, 2], "neutral"]]}
+{"sentence": "DSCL Q1 net jumps over three fold to Rs 114 crore", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Provogue India Q3 net up 7 . 31% at Rs 9 . 68 cr", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Kiwi surges on aggressive rate message , euro steady", "labels": [[[0, 1], "positive"], [[7, 8], "neutral"]]}
+{"sentence": "Exide Q4 net dips 10% at Rs 132 crore", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Rupee hits over 9 - mth low , RBI seen capping fall", "labels": [[[0, 1], "negative"], [[8, 9], "neutral"]]}
+{"sentence": "Have a sell call on Moser Baer : Kunal Saraogi , Technical Analyst", "labels": [[[5, 7], "negative"]]}
+{"sentence": "Holcim - Ambuja Cements deal not winsome for investors", "labels": [[[0, 4], "negative"]]}
+{"sentence": "PSU bonds match equity returns in fourth quarter", "labels": [[[0, 2], "neutral"], [[3, 4], "neutral"]]}
+{"sentence": "Hong Kong main share index ends lower in weak volumes", "labels": [[[0, 2], "negative"]]}
+{"sentence": "IDBI Bank gains on plan to sell stake in CARE", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Adverse conditions in US and Europe markets took a toll on ours : Prakash Diwan , Altamount Capital Management", "labels": [[[3, 4], "negative"], [[5, 7], "negative"], [[16, 19], "neutral"]]}
+{"sentence": "Just Dial has been a proxy to e - commerce play : Deepak Shenoy , Capital Mind", "labels": [[[0, 2], "neutral"], [[15, 17], "neutral"]]}
+{"sentence": "Like it or not , China ' s crude oil futures will be a global benchmark", "labels": [[[8, 11], "positive"]]}
+{"sentence": "PFC , REC , PSU banks will show growth from now on : Ashwani Gujral", "labels": [[[0, 1], "positive"], [[2, 3], "positive"], [[4, 6], "positive"]]}
+{"sentence": "Chart Check from Angel Broking for Tuesday , March 06 : Asian Paints , Educomp Solutions", "labels": [[[11, 13], "neutral"], [[14, 16], "neutral"]]}
+{"sentence": "Government ' s proposed rule regarding ABS will boost auto components sector : Prakash Diwan", "labels": [[[9, 12], "positive"]]}
+{"sentence": "NRI company files criminal complaint against Baring Asia", "labels": [[[6, 8], "positive"]]}
+{"sentence": "YES Bank Q1 profit up 9 . 6% at Rs 439 . 5 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Stock Buzz : Persistent Systems , Cadila top investment ideas", "labels": [[[3, 5], "positive"], [[6, 7], "positive"]]}
+{"sentence": "IEA says oil supply boost may defer market tightening", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Premium valuation for TCS justified among large cap IT stocks : Dipan Mehta", "labels": [[[3, 4], "positive"]]}
+{"sentence": "IPFs of commodity bourses not to have FMC official as trustee", "labels": [[[2, 4], "neutral"]]}
+{"sentence": "Euronext to list first on French , Dutch , Belgian exchanges", "labels": [[[0, 1], "positive"], [[5, 6], "neutral"], [[7, 8], "neutral"], [[9, 11], "neutral"]]}
+{"sentence": "Manali Petrochemicals Q4 net down 72 . 6 pc", "labels": [[[0, 2], "negative"]]}
+{"sentence": "IPCA Laboratories stock slumps 16 per cent", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Karur Vysya Bank rallies over 2% on share sale plan", "labels": [[[0, 3], "positive"]]}
+{"sentence": "CNX IT may today break above the 200 - day average : Mitesh Thacker", "labels": [[[0, 2], "positive"]]}
+{"sentence": "China stocks , after wild ride , reverse course and close higher", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Mentha oil futures up 0 . 55 per cent on strong demand", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Sanjay Kapoor joins PVR Cinemas board as director", "labels": [[[3, 5], "neutral"]]}
+{"sentence": "Major increase in support price for paddy , moong , tur & urad likely", "labels": [[[6, 7], "positive"], [[8, 9], "positive"], [[10, 11], "positive"], [[12, 13], "positive"]]}
+{"sentence": "GlaxoSmithKline posts Rs 79 . 75 cr net profit in Dec quarter", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Nifty likely to retest 8 , 340 level : Mitesh Thacker", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "IOC shares down 2 . 5% on sluggish December quarter earnings", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Power stocks may suffer in shorter term : Avinnash Gorakssakar", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Guargum futures drop Rs 360 on weak domestic , export demand", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Nifty@10 , 000 ; Sensex 30 , 000 in a year : How possible is it ?", "labels": [[[0, 1], "neutral"], [[6, 7], "neutral"]]}
+{"sentence": "Silver futures extend gains on global cues", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Eyeing fresh capital , publishing firm S Chand and Company gets ready for an IPO", "labels": [[[6, 10], "neutral"]]}
+{"sentence": "Gammon Infra jumps ; ICICI Prudential Mutual Fund buys", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Currency futures volumes key to RBI plan on FIIs forex hedging", "labels": [[[0, 2], "neutral"], [[5, 6], "neutral"]]}
+{"sentence": "Fed taper pulls down Sensex by 149 pts to two - month low", "labels": [[[4, 5], "negative"]]}
+{"sentence": "Commodities futures now part of supply chain", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Lupin Q2 net dips 35 per cent to Rs 409 crore", "labels": [[[0, 1], "negative"]]}
+{"sentence": "NSE , BSE to exclude United Spirits from F & O segment", "labels": [[[5, 7], "negative"], [[2, 3], "neutral"], [[0, 1], "neutral"]]}
+{"sentence": "Infosys settles higher ahead of Q3 results", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Market is contracting ; preparing itself for a big move : Ashwani Gujral", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Tech Mahindra rallies over 4% post Q2 results ; top Nifty gainer", "labels": [[[0, 2], "positive"]]}
+{"sentence": "HDFC seeks to raise Rs 1000 crore via bonds", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Uptick in demand lifts turmeric futures by 1 . 44 per cent", "labels": [[[4, 5], "positive"]]}
+{"sentence": "Worst seems to be over for sugar sector : Jagdish Malkani , Member , NSE", "labels": [[[6, 8], "positive"], [[14, 15], "neutral"]]}
+{"sentence": "SKS Microfinance seen struggling short - term ; stock up 9%", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Airtel hits global bond market , raises $1 billion to fund capex", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Skeptical on sustainability of rally in Indian markets : BofA - ML", "labels": [[[6, 8], "negative"], [[9, 12], "neutral"]]}
+{"sentence": "PTC India Financial Services reports 91% jump in Q4 profit to Rs 46 . 36 crore", "labels": [[[0, 4], "positive"]]}
+{"sentence": "Brokerage firms like Anand Rathi Securities , Motilal Oswal Securities , Angel Broking looking at alliances as market loses footing", "labels": [[[3, 6], "neutral"], [[7, 10], "neutral"], [[11, 13], "neutral"]]}
+{"sentence": "2014 will remain challenging for Indian banks , say analysts", "labels": [[[5, 7], "negative"]]}
+{"sentence": "IVRCL rallies 5% as CDR approves Rs 7 , 000 - crore debt recast proposal", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Video : Hot midcap stocks on move : IDBI , Wockhardt", "labels": [[[3, 5], "positive"], [[8, 9], "neutral"], [[10, 11], "neutral"]]}
+{"sentence": "Bearish on sugar stocks , Balrampur a contrarian call : Jagdish Malkani", "labels": [[[2, 4], "negative"], [[5, 6], "negative"]]}
+{"sentence": "Calculus : Recovery in China , new models may help Tata Motors", "labels": [[[10, 12], "positive"]]}
+{"sentence": "Sensex , Nifty rangebound ; L & T , Infosys top losers", "labels": [[[5, 8], "negative"], [[9, 10], "negative"], [[0, 1], "neutral"], [[2, 3], "neutral"]]}
+{"sentence": "5400 - 5470 is the Nifty range for next few days : Ashwani Gujral", "labels": [[[5, 6], "neutral"]]}
+{"sentence": "Polaris net up 8 pc on lower forex losses", "labels": [[[0, 1], "positive"]]}
+{"sentence": "BSE plans international exchange in Gujarat , commodity bourse", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Infosys appoints Kanchinadam as Chief Compliance Officer", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Barley futures slip on profit - booking", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Biggest sugar rally in years not over over as deficit looms : Poll", "labels": [[[1, 2], "positive"]]}
+{"sentence": "Crompton Greaves December quarter Net up 27 . 67 per cent", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Re - $ futures soars to new high in DGCX", "labels": [[[0, 3], "positive"], [[9, 10], "neutral"]]}
+{"sentence": "Deepak Fertilisers bets on chemicals to deliver growth", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Tata Power : Existing investors should participate in upcoming rights issues", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "SC dismisses Dalals ' plea in the IPO fraud case", "labels": [[[2, 3], "neutral"]]}
+{"sentence": "Cognizant Q2 revenue up 16 . 5% at $2 . 52 billion ; expects FY15 revenue growth of at least 14%", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Seven expensive stocks that are still outpacing Sensex", "labels": [[[7, 8], "neutral"]]}
+{"sentence": "ZEE announces closure of share buyback programme", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "MMTC surges after company sees turnaround in Q2 earnings", "labels": [[[0, 1], "positive"]]}
+{"sentence": "$50 oil is already here", "labels": [[[2, 3], "neutral"]]}
+{"sentence": "Tantia Constructions bags Rs 45 cr ; stock up", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Markets look directionless : Here where investors can park their money", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "IFC sells Masala Re Bonds ; raises Rs 1 , 000 cr for Axis Bank", "labels": [[[0, 1], "positive"], [[13, 15], "neutral"]]}
+{"sentence": "Sebi wants strict compliance to mandatory woman director norms", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Euro rebounds in Asia after drop on ECB easing plan reports", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Pramod Bhasin to head DLF ' s rental business", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "Dish TV Q4 loss widens over three - fold to Rs 149 . 05 crore", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Jewellery stocks rally about 14% as gold prices fall sharply", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Calculus : New management ' s focus on earnings bodes well for Crompton Greaves", "labels": [[[12, 14], "positive"]]}
+{"sentence": "Oil dives to new depths , rush to safety aids yen", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Infotech Enterprises Q4 profit slides 23% in March quarter", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Shriram AMC gets Sebi nod for offshore fund management", "labels": [[[0, 2], "positive"], [[3, 4], "neutral"]]}
+{"sentence": "Novartis Q2 Net down 69 per cent ; transfers animal health business", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Techno Electric ' s Q1 FY13 PAT at Rs 40 . 7 crore , up 24%", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Gurmit Singh joins Yahoo India as new Managing Director", "labels": [[[3, 5], "neutral"]]}
+{"sentence": "Gillette to get costly , not a standard BT/ST call in long term : Jagdish Malkani", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Tokyo stocks slip 0 . 13% by break", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Shipping Corporation of India ' s net loss widens more than nine times , total income rises 27%", "labels": [[[0, 4], "negative"]]}
+{"sentence": "Paint stocks valuations not comfortable : Deven Choksey", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Brokers ' call on Exide Industries , Bharti Airtel , Reliance Infrastructure", "labels": [[[4, 6], "neutral"], [[7, 9], "neutral"], [[10, 12], "neutral"]]}
+{"sentence": "Infosys Q1 results : 5 things to watch out for", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "EGoM to decide Engineers India FPO date , price band tomorrow", "labels": [[[3, 5], "neutral"]]}
+{"sentence": "Lupin , Sun Pharma good bets in the pharma space : Ambareesh Baliga", "labels": [[[0, 1], "positive"], [[2, 4], "positive"]]}
+{"sentence": "Oil prices mixed after Saudi king death", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Foreign currency bonds by non - financial companies to hit a high '", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Here are the jobs most in demand on Wall Street", "labels": [[[8, 10], "neutral"]]}
+{"sentence": "SKS Microfinances now the toast of smart investors", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Rate - sensitives trade cautiously ahead of RBI meet ; IB Realty surges", "labels": [[[10, 12], "positive"]]}
+{"sentence": "Sensex registers triple digit loss on weak global cues ; Nifty tests 6450", "labels": [[[0, 1], "negative"], [[10, 11], "neutral"]]}
+{"sentence": "ICICI Bank Q2 net profit up 15% to Rs 2 , 709 crore ; beats estimates", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Equity to outperform other asset classes in 2015 : Experts", "labels": [[[0, 1], "positive"]]}
+{"sentence": "China slaps restrictions on 7 securities and futures institutions", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Bharti Airtel prospects don ' t look bright as of now : Dipan Mehta , Member , BSE & NSE", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Gold futures fall on weak global cues", "labels": [[[0, 1], "negative"]]}
+{"sentence": "McNally Bharat posts 53% rise in Q3 rise net profit", "labels": [[[0, 2], "positive"]]}
+{"sentence": "PFC FPO oversubscribed 4 . 32 times on final day", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Analysts warn investors against small auto and auto ancillary firms", "labels": [[[4, 9], "negative"]]}
+{"sentence": "Infosys director Ann M Fudge wont seek reappointment after term expiry", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "IDBI Bank plunges as CBI registers inquiry against loan to Kingfisher Airlines", "labels": [[[0, 2], "negative"], [[4, 5], "neutral"], [[10, 12], "neutral"]]}
+{"sentence": "L & T , Maruti , Strides Shasun among top 5 buy ideas from top brokerages", "labels": [[[0, 3], "positive"], [[4, 5], "positive"], [[6, 8], "positive"]]}
+{"sentence": "Hedger earns big notional gain in MCX gold futures", "labels": [[[0, 1], "positive"], [[6, 8], "neutral"]]}
+{"sentence": "Airtel , Idea Cellular stocks rise amid market gloom , but spectrum costs weigh heavy", "labels": [[[0, 1], "positive"], [[2, 4], "positive"]]}
+{"sentence": "Dalal Street may get bumpy in new financial year , likely to be challenging for equities", "labels": [[[15, 16], "negative"]]}
+{"sentence": "Videocon appoints Sanjeev Bakshi as COO", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "SBI : Growing loan book expected to boost margins", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Broader markets valuations look attractive : Ambit Capital", "labels": [[[6, 8], "neutral"]]}
+{"sentence": "Marico , Nerolac , and Firstsource top picks in small cap : Pankaj Pandey", "labels": [[[0, 1], "positive"], [[2, 3], "positive"], [[5, 6], "positive"]]}
+{"sentence": "Bank Nifty , CNX IT not showing much strength despite index hitting life - time high : Mitesh Thacker", "labels": [[[0, 2], "negative"], [[3, 5], "negative"]]}
+{"sentence": "Rate - sensitive stocks rally , but worries stay", "labels": [[[0, 4], "positive"]]}
+{"sentence": "April 03 , 2014 : Mecklai Financial report on rupee", "labels": [[[5, 7], "neutral"], [[9, 10], "neutral"]]}
+{"sentence": "Share sales to meet holding norm set by Sebi ; secondary market may face severe fund crunch", "labels": [[[8, 9], "neutral"]]}
+{"sentence": "Ozone Pharma planning for IPO in the near future", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "China yuan snaps 6 - day gaining streak on weak PMI , midpoint", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "TBWA rejigs India top management , appoints Vineet Bajpai as CEO", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "NSEL scam : High Court appoints fact - finding panel to monetise and sell assets of defaulting parties", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Elder Pharma rallies 5% on Max Healthcare acquisition", "labels": [[[0, 2], "positive"], [[6, 8], "neutral"]]}
+{"sentence": "NSE to auction investment limits for Rs 684 crore for government bonds", "labels": [[[0, 1], "neutral"], [[10, 12], "neutral"]]}
+{"sentence": "China to let banks with offshore yuan business do domestic repos", "labels": [[[5, 7], "neutral"]]}
+{"sentence": "Pre - market : Nifty seen opening flat ; RIL eyed ahead of Q1 results", "labels": [[[4, 5], "neutral"], [[9, 10], "neutral"]]}
+{"sentence": "SpiceJet makes top - level changes", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Rice basmati remains weak on sluggish demand", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Zinc futures decline 0 . 61 per cent on subdued demand", "labels": [[[0, 2], "negative"]]}
+{"sentence": "2G effect : Telecom stocks edge higher ; auction on", "labels": [[[3, 5], "positive"]]}
+{"sentence": "Yen , euro buoyed by risk aversion as equities retreat", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "CESC Q4 net down 5 per cent to Rs 243 crore", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Rising consumption to drive markets : BNP Paribas Asset Management", "labels": [[[6, 10], "neutral"]]}
+{"sentence": "RComm a good stock in the telecom space : Deepak Mohoni , trendwatchindia . com", "labels": [[[0, 1], "positive"], [[12, 15], "neutral"]]}
+{"sentence": "Regulatory hurdle hits Kotak Group ' s plan to secure board seat on commodity bourse MCX", "labels": [[[3, 5], "negative"]]}
+{"sentence": "Caldwell looks to raise stake in BSE", "labels": [[[0, 1], "neutral"], [[6, 7], "neutral"]]}
+{"sentence": "Sensex rangebound , Nifty directionless ; top fifteen stocks in focus", "labels": [[[0, 1], "neutral"], [[3, 4], "neutral"]]}
+{"sentence": "Pipavav Defence surges on debt recast plans", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Cairn India , ONGC , and Oil India shares fall with global crude crash", "labels": [[[0, 2], "negative"], [[3, 4], "negative"], [[6, 8], "negative"]]}
+{"sentence": "Max Life sees 5% fall in 9 - month profit at Rs 308 crore", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Crude likely to fall to $60 a barrel in near to medium term : Experts", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Fertilizer interesting sector from Q3 : Mayank Shah , Anagram Capital", "labels": [[[0, 1], "positive"], [[9, 11], "neutral"]]}
+{"sentence": "Sensex pares gains after hitting record highs ; top ten stocks in focus", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Dow , S & P 500 in record territory after release of Fed minutes", "labels": [[[0, 1], "positive"], [[2, 6], "positive"]]}
+{"sentence": "RCom may sell 5 per cent to investors in tower unit in pre - IPO deal", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "BGR Energy net rises 60 pc to Rs 323 cr in FY11", "labels": [[[0, 2], "positive"]]}
+{"sentence": "PFC faces a higher rate as it looks to raise Rs 5000 crore via bond placement", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Eicher Motors Q2 net profit rises 41 per cent to Rs 222 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Five reasons why investors should subscribe to EIL OFS", "labels": [[[7, 8], "positive"]]}
+{"sentence": "Micromax launches Canvas Pace 4G Q416 , priced Rs 6 , 821", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Rajesh Exports redeems $150 - mn foreign bonds", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Negative on Chambal , Advanta : Mitesh Thacker", "labels": [[[2, 3], "negative"], [[4, 5], "negative"]]}
+{"sentence": "Apollo Tyres hits 52 - week high on US court ruling ; more upside seen", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Aviation stock returns rise post Spicejet deal", "labels": [[[5, 6], "positive"], [[0, 1], "positive"]]}
+{"sentence": "Asian currencies firm ; ringgit falls on weak oil demand", "labels": [[[4, 5], "negative"], [[0, 2], "neutral"]]}
+{"sentence": "ACC Q2 net dips 79 pc to Rs 86 . 31 cr", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Trimax IT Infrastructure plans IPO , files DRHP with SEBI", "labels": [[[0, 3], "neutral"], [[9, 10], "neutral"]]}
+{"sentence": "Unitech , DLF , HDIL bottomed out , 5 - 7% upside from is visible : Sandeep Wagle", "labels": [[[0, 1], "positive"], [[2, 3], "positive"], [[4, 5], "positive"]]}
+{"sentence": "Flipkart names Rajnish Baweja as its finance controller", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Clariant acquires Lanxess black pigment portfolio ; stock up", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "Hopes of government spending post elections fire up infra stocks", "labels": [[[8, 10], "positive"]]}
+{"sentence": "Tinplate is certainly a hold : Deepak Mohoni , trendwatchindia . com", "labels": [[[0, 1], "neutral"], [[9, 12], "neutral"]]}
+{"sentence": "Pantaloons Fashion & Retail Ltd Q4 loss at Rs 70 . 75 crore", "labels": [[[0, 5], "neutral"]]}
+{"sentence": "Uptrend in BHEL to continue : Amit Harchekar , IIFL", "labels": [[[2, 3], "positive"], [[9, 10], "neutral"]]}
+{"sentence": "Nifty stuck in a range , focus on individual stocks : Mitesh Thacker", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Bill Gross ' Janus Global Unconstrained Bond posts $11 . 7 million outflow in May", "labels": [[[3, 7], "neutral"]]}
+{"sentence": "Deccan Gold Mines gets Sebi ' s nod to raise Rs 44 crore through rights issue", "labels": [[[0, 3], "positive"], [[4, 5], "neutral"]]}
+{"sentence": "Dabur plans three new plants overseas ; stock up", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Force Motors , others surge on BSE revision of circuit limits", "labels": [[[0, 2], "positive"], [[6, 7], "neutral"]]}
+{"sentence": "5300 to 5355 is the level to watch out on Nifty : Rajat Bose", "labels": [[[10, 11], "positive"]]}
+{"sentence": "Sensex rangebound ; top 10 stocks in focus", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Excellent valuations make BEL a buy for long term : P Phani Sekhar", "labels": [[[3, 4], "positive"]]}
+{"sentence": "NHPC : Timely completion of projects crucial for company", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Debt funds look more attractive in the short term , say experts", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Gold dives below Rs 28 , 000 mark on fresh selling , global cues", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Lamy names William Penn official distributor in India", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Cut long positions if Nifty50 falls below 7 , 820 : Mitesh Thacker", "labels": [[[4, 5], "negative"]]}
+{"sentence": "Base metal drops further on sustained stockists selling", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Anil Ambani Group firm Reliance Infra Q3 net profit jumps 26% at Rs 450 crore", "labels": [[[4, 6], "positive"]]}
+{"sentence": "Mid - sized IT firms may post moderate growth in June quarter", "labels": [[[0, 5], "positive"]]}
+{"sentence": "CSE to seek more time to meet SEBI norms for trading platform", "labels": [[[0, 1], "neutral"], [[7, 8], "neutral"]]}
+{"sentence": "Difficult for Apollo Tyres to cross 66 - 67 levels : Mitesh Thacker", "labels": [[[2, 4], "negative"]]}
+{"sentence": "6150 on the Nifty looks a matter of time : Ashwani Gujral", "labels": [[[3, 4], "neutral"]]}
+{"sentence": "Surge in Bosch doesn ' t bewilder me : Ambareesh Baliga , Market Expert", "labels": [[[2, 3], "positive"]]}
+{"sentence": "Sensex rangebound , trades below 26000 ; top 20 trading ideas", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Africa operations taking a toll on Bharti ' s earnings , prefer Idea : Hemindra Hazari", "labels": [[[12, 13], "positive"], [[6, 7], "negative"]]}
+{"sentence": "Best to exit Sun TV now : Deepak Mohoni", "labels": [[[3, 5], "negative"]]}
+{"sentence": "Indices unlikely to see major correction : Gaurang Shah , Geojit BNP", "labels": [[[10, 12], "neutral"]]}
+{"sentence": "CLSA maintains ' Buy ' on Shree Cement", "labels": [[[6, 8], "positive"], [[0, 1], "neutral"]]}
+{"sentence": "IC Sahu is new ED in - charge of IISCO Steel Plant", "labels": [[[9, 12], "neutral"]]}
+{"sentence": "Bank , auto , realty stocks stuck in a range ahead of RBI policy review", "labels": [[[0, 1], "neutral"], [[2, 3], "neutral"], [[4, 6], "neutral"]]}
+{"sentence": "El Nino may not be saviour for depressed rubber market : Industry sources", "labels": [[[8, 9], "negative"]]}
+{"sentence": "ONGC biggest beneficiary from diesel subsidy cut : Anish Damania", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Barley futures slip further on renewed selling", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Reliance Infrastructure , Reliance Power shares rise on Q1FY13 results", "labels": [[[0, 2], "positive"], [[3, 5], "positive"]]}
+{"sentence": "BSE inks strategic partnership with YES Bank", "labels": [[[5, 7], "neutral"], [[0, 1], "neutral"]]}
+{"sentence": "KEC International ' s Q4 net profit up over 25% at Rs 78 . 58 cr", "labels": [[[0, 2], "positive"]]}
+{"sentence": "When Janet Yellen said : ' Confidence in global financial markets extremely fragile '", "labels": [[[8, 11], "negative"]]}
+{"sentence": "Praj might bounce back if the market permits : Deepak Mohoni", "labels": [[[0, 1], "positive"]]}
+{"sentence": "WNS appoints Adrian Dillon , Renu Karnad to Board of Directors", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Hindujas to raise $1 bn through Petromin IPO", "labels": [[[0, 1], "neutral"], [[7, 8], "neutral"]]}
+{"sentence": "Investments via P - Notes dropped to Rs 2 . 36 lakh crore in December", "labels": [[[2, 5], "negative"]]}
+{"sentence": "Move over Sensex , Nifty , say experts ; stocks that can return upto 46%", "labels": [[[2, 3], "neutral"], [[4, 5], "neutral"]]}
+{"sentence": "FIMMDA removes trading bands for govt bonds for Monday", "labels": [[[0, 1], "neutral"], [[5, 7], "neutral"]]}
+{"sentence": "EIL trading close to its support of Rs 310 : Vinith Jain", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Brent ' s premium to Dubai crude falls to lowest in more than 3 months", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Institutional investors cut their exposure on Ranbaxy stock", "labels": [[[6, 8], "negative"]]}
+{"sentence": "At 58 Apollo Tyres becomes a buy : Ashwani Gujral", "labels": [[[2, 4], "positive"]]}
+{"sentence": "Tech Mahindra slips nearly 6% as Q1 profit , margin miss Street estimates", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Take Solutions net profit up 115 . 8% at Rs 69 . 99 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Asia shares gain as Greece defaults on loan with IMF", "labels": [[[0, 2], "positive"]]}
+{"sentence": "International Monetary Fund should regulate global central banks : Raghuram Rajan", "labels": [[[0, 3], "neutral"], [[5, 8], "neutral"]]}
+{"sentence": "Known parties manipulated trades on MCX , says PwC audit", "labels": [[[5, 6], "neutral"], [[8, 9], "neutral"]]}
+{"sentence": "Pistachio falls on subdued demand", "labels": [[[0, 1], "negative"]]}
+{"sentence": "IT stocks also crack , experts say markets may slip 15% from here", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Vakrangee bags order from Union Bank ; stock up", "labels": [[[0, 1], "positive"], [[4, 6], "neutral"]]}
+{"sentence": "Bofa - ML upgrades Hindalco Industries to ' buy '", "labels": [[[4, 6], "positive"], [[0, 3], "neutral"]]}
+{"sentence": "Cotton rises 10% on demand for exports and local consumption", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Here ' s what to expect from HDFC Q4 results ; net profit to grow by 6 . 2% YoY", "labels": [[[7, 8], "positive"]]}
+{"sentence": "Gujarat govt buys shares of GACL to take on Gujarat Samachars aggressive intentions", "labels": [[[5, 6], "neutral"], [[9, 11], "neutral"]]}
+{"sentence": "ICICI Bank gains over 1% after board approves 1 : 5 stock split", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Market will be buoyant , don ' t wait for correction : Raamdeo Agrawal , MOFSL", "labels": [[[15, 16], "neutral"]]}
+{"sentence": "Growth - linked currencies at multi - week highs on risk rally", "labels": [[[0, 4], "positive"]]}
+{"sentence": "Sebi to study global systems to catch manipulators early", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Hinduja Ventures Q3 profit at Rs 23 . 53 crore", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Sebi plans new norms for municipal bonds", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Oil ' s 45% rebound could be testing nerves of markets and policymakers", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Shangai stock index hits 8 - month high despite worries over economy", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Snowman Logistics can do well with a long term perspective : Neeraj Deewan", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Sell Dr Reddy Laboratories Ltd with a target of Rs 2 , 388 : Vijay Bhambwani", "labels": [[[1, 5], "negative"]]}
+{"sentence": "40 - 50% earnings growth expected for Amara Raja Batteries in FY11 : Anagram Capital", "labels": [[[8, 11], "positive"], [[14, 16], "neutral"]]}
+{"sentence": "An upside up to 190 - 195 possible on RComm : Vinith Jain , Siddh Capital", "labels": [[[9, 10], "positive"], [[14, 16], "neutral"]]}
+{"sentence": "L & T Finance Q4 net Up 21 . 8%", "labels": [[[0, 4], "positive"]]}
+{"sentence": "USFDA becoming dreaded word in Dalal Street ; pharma companies need to keep Street in the loop", "labels": [[[8, 10], "negative"], [[0, 1], "neutral"]]}
+{"sentence": "Kotak Mahindra Bank shares fall on Macquarie downgrade", "labels": [[[0, 3], "negative"], [[6, 7], "neutral"]]}
+{"sentence": "European Central Bank could fix euro zone flaw with risk - free bond", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Gloomy French data hits European stocks , Iraq keeps oil high", "labels": [[[9, 10], "positive"], [[4, 6], "negative"]]}
+{"sentence": "European shares edge lower after US sell - off", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Rs 2 , 000 cr SBI bond issue to hit markets next Monday", "labels": [[[5, 6], "neutral"]]}
+{"sentence": "Panic reaction in metal stocks after China rate cuts : Jagdish Malkani", "labels": [[[3, 5], "negative"]]}
+{"sentence": "Paper stocks like BILT do not make very exciting tradable bets : Vijay Bhambwani", "labels": [[[3, 4], "negative"]]}
+{"sentence": "Infosys and Wipro top picks , see 20% upside : Jaideep Goswami", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "Sensex , Nifty rangebound as RBI maintains status quo", "labels": [[[0, 1], "neutral"], [[2, 3], "neutral"], [[5, 6], "neutral"]]}
+{"sentence": "Wipro slips for second session after Q2 results", "labels": [[[0, 1], "negative"]]}
+{"sentence": "GCPL , Torrent Pharma , Concor gain 3% each , Jet hits 52 - week high on F & O inclusion", "labels": [[[0, 1], "positive"], [[2, 4], "positive"], [[5, 6], "positive"], [[11, 12], "positive"]]}
+{"sentence": "China stocks mixed as investors hold back before SH - HK connect launch", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Airlines in sweet spot ; expect SpiceJet to see rerating on IndiGo listing : Bandyopadhyay", "labels": [[[0, 1], "positive"], [[6, 7], "positive"], [[11, 12], "neutral"]]}
+{"sentence": "IRFC tax - free bond issue subscribed 0 . 55 times within an hour", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Currency headwinds weigh on IT stocks", "labels": [[[4, 6], "negative"]]}
+{"sentence": "InterGlobe on a high ; other airline stocks also gain", "labels": [[[0, 1], "positive"], [[6, 8], "positive"]]}
+{"sentence": "4900 - 4930 support level for Nifty : Devang Visaria", "labels": [[[6, 7], "positive"]]}
+{"sentence": "Eros International , Mandhana Industries tank up to 6% after court ' s verdict on Salman Khan", "labels": [[[0, 2], "negative"], [[3, 5], "negative"]]}
+{"sentence": "Hike in LPG and diesel to reduce subsidy bill : UR Bhat", "labels": [[[2, 3], "positive"], [[4, 5], "positive"]]}
+{"sentence": "Extremely positive on private sector banks and NBFCs : Dipan Mehta", "labels": [[[3, 6], "positive"], [[7, 8], "positive"]]}
+{"sentence": "IDFs can extend schemes ' tenure by up to 2 years : Sebi", "labels": [[[0, 1], "neutral"], [[12, 13], "neutral"]]}
+{"sentence": "Mercator Lines has potential to touch Rs 180 : Ventura", "labels": [[[0, 2], "positive"], [[9, 10], "neutral"]]}
+{"sentence": "Opportunity awaits in many real estate companies ; focus on Godrej , DLF : Deven Choksey", "labels": [[[10, 11], "positive"], [[12, 13], "positive"]]}
+{"sentence": "Should new investors opt for stocks or mutual funds ?", "labels": [[[5, 6], "neutral"], [[7, 9], "neutral"]]}
+{"sentence": "Target for Indiabulls is 225 , stop loss around 145 - 150 : Kunal Bothra", "labels": [[[2, 3], "negative"]]}
+{"sentence": "Kirloskar Brothers posts Rs 19 . 7 crore profit in December quarter", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Potato futures extend gains , climb 3% on strong demand", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Emerging stocks set for second week in red", "labels": [[[0, 2], "negative"]]}
+{"sentence": "SUUTI to sell 9% in Axis Bank via block trades , govt plans to mop up Rs 5 , 500 - cr", "labels": [[[0, 1], "neutral"], [[6, 8], "neutral"]]}
+{"sentence": "Bata India Q4 net soars 35 . 39% ; stock up", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Tantis may hike stake in Suzlon via rights issue", "labels": [[[0, 1], "neutral"], [[5, 6], "neutral"]]}
+{"sentence": "S K Nationwide ' s profit soars 44 . 5% to Rs 33 . 09 cr", "labels": [[[0, 3], "positive"]]}
+{"sentence": "March 15 , 2014 : Mecklai Financial report on rupee", "labels": [[[5, 7], "neutral"]]}
+{"sentence": "Short - term uncertainties back ; look at pharma stocks as long - term bets : Kunj Bansal", "labels": [[[8, 10], "negative"]]}
+{"sentence": "Drug major Ranbaxy beats expectations , posts first profit in 6 quarters", "labels": [[[2, 3], "positive"]]}
+{"sentence": "Ravindra Pisharody , Satish Borwankar in race for Tata Motor new MD post", "labels": [[[8, 10], "neutral"]]}
+{"sentence": "TCS : New layer to oversee verticals ; stock down", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Mining & metal stocks catch global chill , fall up to 5%", "labels": [[[0, 1], "negative"], [[2, 4], "negative"]]}
+{"sentence": "Inflation & corporate governance biggest market worries : Blackstone Asia Advisors", "labels": [[[8, 11], "neutral"]]}
+{"sentence": "Dredging Corporation falls as government plans to sell 5% stake", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Auto , pharma top wealth creators in 4 years", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "Rel Broadcast Network up 4pc on deal with CBS", "labels": [[[0, 3], "positive"], [[8, 9], "neutral"]]}
+{"sentence": "Sensex falls from days high ; top 20 trading bets", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Visible growth in IT sector offers comfort , buy stocks on dips : Anand Tandon", "labels": [[[3, 5], "positive"]]}
+{"sentence": "Rupee off highs on suspected Reserve Bank of India intervention", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Larger part of story for Mahindra & Mahindra remains intact : KR Choksey Securities", "labels": [[[5, 8], "positive"], [[11, 14], "neutral"]]}
+{"sentence": "Rupee gains 29 paise against US dollar", "labels": [[[0, 1], "positive"], [[5, 7], "neutral"]]}
+{"sentence": "Standard Chartered India ' s H1 2014 operating profit down 10 per cent to $395 million", "labels": [[[0, 3], "negative"]]}
+{"sentence": "Electrosteel Steel soars 13% as lenders approve SDR", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Market remains stock specific : Mitesh Thacker", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Dry fruit prices rule steady in tight movements", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Interim Budget 2014 : Oil subsidy payments postponed to next fiscal , investors should keep a watch on lowering of subsidies", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "Soya , sunflower oil prices to rise due to festivals", "labels": [[[0, 1], "positive"], [[2, 4], "positive"]]}
+{"sentence": "Overseas funds plug into power gear makers", "labels": [[[4, 7], "neutral"]]}
+{"sentence": "Cipla posts Rs 284 crore profit for Q3", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Gold extends gains on festive buying , weak rupee", "labels": [[[0, 1], "positive"], [[8, 9], "negative"]]}
+{"sentence": "Upbeat China PMI boosts Asia equities , Aussie ; oil up on Iraq", "labels": [[[4, 6], "positive"], [[7, 8], "positive"], [[9, 10], "positive"]]}
+{"sentence": "Titagarh Wagons forays in metro coach business ; stock up 1 per cent", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Nitin Fire bags Rs 250 crore order from Abu Dhabi airport ; stock surges over 5%", "labels": [[[0, 2], "positive"], [[8, 11], "neutral"]]}
+{"sentence": "Thermax posts Q4 net profit at Rs 126 . 50 cr", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Nifty , Sensex start on a cautious note ; Infosys , TCS up", "labels": [[[9, 10], "positive"], [[11, 12], "positive"], [[0, 1], "negative"], [[2, 3], "negative"]]}
+{"sentence": "Why long - term investors should believe in Infosys CEO Vishal Sikka", "labels": [[[8, 9], "neutral"]]}
+{"sentence": "Alkem , PathLabs soar in stellar debut on bourses", "labels": [[[0, 1], "positive"], [[2, 3], "positive"]]}
+{"sentence": "Havells , UltraTech and Apollo Tyres are best bets : Ashwani Gujral", "labels": [[[0, 1], "positive"], [[2, 3], "positive"], [[4, 6], "positive"]]}
+{"sentence": "RBL Bank plans to launch IPO in next three quarters", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Rolta India going through downtrend : Ashwani Gujral", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Views & recos : Sesa Goa , Pantaloon , Elecon Engineering", "labels": [[[4, 6], "neutral"], [[7, 8], "neutral"], [[9, 11], "neutral"]]}
+{"sentence": "APL Apollo Tubes hits record high ; HDFC MF buys shares", "labels": [[[0, 3], "positive"], [[7, 8], "neutral"]]}
+{"sentence": "JGBs steady at lofty levels as stocks slump", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Aban has the potential to go beyond 840 : Sandeep Wagle", "labels": [[[0, 1], "positive"]]}
+{"sentence": "HSIL rallies 11% after RBI allows FIIs to buy shares ; ends nearly 3% down", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Stock markets to see cautious trading amid elections , IIP data : Report", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Euro stays afloat in tentative trade amid geopolitical concerns", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Brent slips below $105 , Iraq oil output steady amid conflict", "labels": [[[0, 1], "negative"], [[6, 8], "neutral"]]}
+{"sentence": "Why Chinese stocks leave US investors vulnerable", "labels": [[[4, 5], "negative"], [[1, 3], "neutral"]]}
+{"sentence": "Cognizant ' s robust performance vindicates stronger demand scenario", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Duncan Fertilisers acquisition wont have a major impact on JP Associates stock : Fayeza Hafizee , Intime Spectrum Securities", "labels": [[[0, 2], "neutral"], [[9, 11], "neutral"], [[16, 19], "neutral"]]}
+{"sentence": "Recommend wait and watch for midcap IT stocks : Dipan Mehta", "labels": [[[6, 8], "neutral"]]}
+{"sentence": "Analysts see no major impact from new Fed tapering talks", "labels": [[[7, 8], "neutral"]]}
+{"sentence": "Five reasons why rupee may not appreciate much", "labels": [[[3, 4], "neutral"]]}
+{"sentence": "Ebbing global cues , weak domestic demand bring down lead futures", "labels": [[[9, 10], "negative"]]}
+{"sentence": "Amtek Auto cracks as company ' s June quarter loss nearly doubles on year", "labels": [[[0, 2], "negative"]]}
+{"sentence": "J & K Bank a good buy at current levels : Pankaj Pandey , ICICIdirect . com", "labels": [[[0, 4], "positive"], [[14, 17], "neutral"]]}
+{"sentence": "Orchid Chemicals gain 5% on milestone payment from Merck", "labels": [[[0, 2], "positive"], [[9, 10], "neutral"]]}
+{"sentence": "Bayer Crop Science will be generous to shareholders : Jagdish Malkani", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Maruti Gujarat plans : Will small investors be shortchanged ?", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Mundra Port ' s net profit up at Rs 228 . 46 cr ; stock down", "labels": [[[0, 2], "negative"]]}
+{"sentence": "China shares down in morning trade", "labels": [[[0, 2], "negative"]]}
+{"sentence": "HUL likely to remain at around 680 odd levels : Tirthankar Patnaik , Religare Capital Markets", "labels": [[[0, 1], "neutral"], [[13, 16], "neutral"]]}
+{"sentence": "ACC unlikely to run up in a hurry : Ashwani Gujral , Market Strategist", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Dubai commodity exchange in talks with producers to launch tea futures", "labels": [[[0, 3], "neutral"], [[9, 11], "neutral"]]}
+{"sentence": "Next leg of Nifty rally will be led by PSU banks , say analysts", "labels": [[[3, 4], "positive"], [[9, 11], "positive"]]}
+{"sentence": "Cheaper inputs help , but weak demand a drag on Asian Paints", "labels": [[[10, 12], "neutral"]]}
+{"sentence": "EID Parry declares interim dividend of Rs 4 per share", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "European shares slide as Greece faces new elections", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Value is emerging in metals , PSU companies and real estate post correction : Parag Thakkar , HDFC Securities", "labels": [[[4, 5], "positive"], [[6, 8], "positive"], [[9, 11], "positive"], [[17, 19], "neutral"]]}
+{"sentence": "Lot of negative news is the reason for sharp decline in telecom stocks : Angel Broking", "labels": [[[11, 13], "negative"], [[14, 16], "neutral"]]}
+{"sentence": "Rate hike hints from RBI push bond prices up", "labels": [[[4, 5], "positive"]]}
+{"sentence": "Traders build bullish bets on gold", "labels": [[[5, 6], "positive"]]}
+{"sentence": "Global , local bidders bet on FTIL ' s purchase in MCX", "labels": [[[6, 7], "positive"], [[11, 12], "neutral"]]}
+{"sentence": "Sebi to issue details of corporate governance norms", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "HCL ropes in Chandrasekaran as No . 2", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Initial target for Tata Elxsi seen at Rs 320 : Ventura", "labels": [[[3, 5], "neutral"]]}
+{"sentence": "Kansai Nerolac Paints Q2 net profit up by 40 . 62 per cent at Rs 72 . 66 crore", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Blue chip stocks trade lower than their highs", "labels": [[[0, 3], "negative"]]}
+{"sentence": "Monsanto India Q1 net up 16% at Rs 56 . 24 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "TV Today Network Q2 up 84% at Rs 24 . 31 crore", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Punj Lloyd surges 5% as it bags Rs 1 , 418 crore order", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Not betting hugely on large cap indices : Ashwani Gujral", "labels": [[[4, 7], "negative"]]}
+{"sentence": "Abbott India Q1 net up 71% to Rs 51 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Shire surge pushes FTSE towards record peak", "labels": [[[3, 4], "positive"]]}
+{"sentence": "Scotland split jitters send sterling to 10 - month low", "labels": [[[4, 5], "negative"]]}
+{"sentence": "Chinese yuan nearly flat after APEC summit", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Now open : Narayana Hrudayalaya IPO likely to cross the line today", "labels": [[[3, 5], "neutral"]]}
+{"sentence": "Dr Reddy Laboratories reports 17% net profit drop in July - September quarter , spent 12% of revenues on R & D", "labels": [[[0, 3], "negative"]]}
+{"sentence": "Karnataka Bank , Vijaya Bank , DCB good takeover target for large cap banks : Seshadri Bharathan", "labels": [[[0, 2], "positive"], [[3, 5], "positive"]]}
+{"sentence": "Inox Wind debuts at Rs 400 , a premium of 23% on NSE", "labels": [[[0, 2], "neutral"], [[13, 14], "neutral"]]}
+{"sentence": "High Court to hear fresh PIL against National Spot Exchange Limited and Jignesh Shah tomorrow", "labels": [[[5, 6], "neutral"], [[7, 11], "neutral"]]}
+{"sentence": "Keralas 1 - gram gold jewellery is to go places", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Finolex on a roll after renewing its focus on pipe business", "labels": [[[0, 1], "positive"]]}
+{"sentence": "NSE to shift stocks of 47 firms to restricted trading segment", "labels": [[[0, 1], "negative"]]}
+{"sentence": "10 - yr bond yield rises on profit - taking", "labels": [[[0, 4], "positive"]]}
+{"sentence": "Tilaknagar Industries appoints Vijay K Rekhi as chairman of its board of advisors", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Shoppers Stop may raise upto Rs 350 - cr through QIP route", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Trent Q2 Net down 27 per cent at Rs 11 . 43 crore", "labels": [[[0, 1], "negative"]]}
+{"sentence": "RCom rallies 20% in April ; more deals will lead to re - rating , say brokerages", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Samsung Electronic India enterprise business head quits", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "JSW Steel keen to acquire assets of Bhushan Group : Sources", "labels": [[[0, 2], "neutral"], [[7, 9], "neutral"]]}
+{"sentence": "Sri Lankan rupee forwards steady as central bank prevents fall", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Ipca Laboratories Q1 net up 67 per cent at Rs 71 . 77 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Shoppers Stop can see some correction : Ashwani Gujral", "labels": [[[0, 2], "positive"]]}
+{"sentence": "One can short Ranbaxy : Ashuu Kakkarr", "labels": [[[3, 4], "negative"]]}
+{"sentence": "What ' s happening in the oil market right now is ' unprecedented '", "labels": [[[6, 7], "neutral"]]}
+{"sentence": "Sadbhav Engineering Q2 Net declines 64% to Rs 10 . 13 crore", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Derailed expectations ! Rail stocks slip 20% ; Sensex sinks 517 points", "labels": [[[3, 5], "negative"], [[9, 10], "negative"]]}
+{"sentence": "85 should be a good target for LT foods : Devang Visaria", "labels": [[[7, 9], "positive"]]}
+{"sentence": "Is Wall Street set to witness deal - making rivaling the dot - com bubble time ?", "labels": [[[1, 3], "neutral"]]}
+{"sentence": "Global LNG - Prices drop to lowest levels since April 2011", "labels": [[[0, 2], "negative"]]}
+{"sentence": "USL stock up 3% as Diageo buys shares ; ups stake to 29%", "labels": [[[0, 1], "positive"], [[6, 7], "neutral"]]}
+{"sentence": "Wipro rallies on winning 10 - year outsourcing engagement with ATCO", "labels": [[[0, 1], "positive"], [[10, 11], "neutral"]]}
+{"sentence": "Sensex ends below 21 , 800 ; tech , pharma , realty decline", "labels": [[[0, 1], "negative"], [[7, 8], "negative"], [[9, 10], "negative"], [[11, 12], "negative"]]}
+{"sentence": "Export of oilmeals from India down by 4 pc between April 2013 to January 2014", "labels": [[[2, 3], "negative"]]}
+{"sentence": "Castorseed futures rise on fresh buying", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Sensex drops over 100 points from record high ; Ranbaxy plunges 20%", "labels": [[[0, 1], "negative"], [[9, 10], "negative"]]}
+{"sentence": "Too early to buy banking stocks : Deepak Mohoni", "labels": [[[4, 6], "neutral"]]}
+{"sentence": "Chennai Petroleum shuts refinery due to flooding , shares down", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Kharif sowing expected to increase due to good monsoons : Sharad Pawar , Agriculture Minister", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Underweight on banking stocks : Manish Kumar", "labels": [[[2, 4], "negative"]]}
+{"sentence": "Copper futures decline 0 . 15 pc on global cues", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Yes Bank falls nearly 3% after MSCI excludes from indexes", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Taiwan stocks up slightly on caution ahead of key orders data", "labels": [[[0, 2], "positive"]]}
+{"sentence": "AstraZeneca Pharma rallies nearly 13% on strong Q3 show", "labels": [[[0, 2], "positive"]]}
+{"sentence": "SRF December quarter net profit drops 19 per cent to Rs 72 crore", "labels": [[[0, 1], "negative"]]}
+{"sentence": "FMC to take action against NSEL for violating norms : KV Thomas", "labels": [[[5, 6], "negative"]]}
+{"sentence": "IFCI slips over 14% after govt raises stake to 55 . 57%", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Dollar starts week under pressure , markets eye Jackson Hole", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Shortsell ICICI Bank : CK Narayan , Growth Avenues Asset Advisors", "labels": [[[1, 3], "negative"], [[7, 11], "neutral"]]}
+{"sentence": "Vishal Sikka to outline strategy at Infosys Q2 results", "labels": [[[6, 7], "neutral"]]}
+{"sentence": "Amar Ujala files IPO papers with Sebi", "labels": [[[0, 2], "neutral"], [[6, 7], "neutral"]]}
+{"sentence": "Jewellers smile as export orders hint at revival", "labels": [[[0, 1], "positive"]]}
+{"sentence": "DSP Blackrock MF ' s senior fund manager to manage offshore funds as company shuffles management", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Nandan Nilekani resigns as UIDAI chief", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "Weak demand , higher supply drag down mentha oil futures", "labels": [[[7, 10], "negative"]]}
+{"sentence": "Unitech Q1 dips by 53 pc to Rs 45 . 88 crore ; no dividend for FY ' 12", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Mahindra & Mahindra Q2 PAT down 4 . 33% at Rs 946 . 63 crore", "labels": [[[0, 3], "negative"]]}
+{"sentence": "Cess may impact EPS of Oil India , ONGC , Cairn : Prabhudas Lilladher", "labels": [[[5, 7], "negative"], [[8, 9], "negative"], [[10, 11], "negative"]]}
+{"sentence": "Edible oils strengthen on millers buying", "labels": [[[0, 2], "positive"]]}
+{"sentence": "DLF gains momentum as Q2 PAT grows 9%", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Key support level for Nifty seen between 8000 and 8050 : Mitesh Thacker", "labels": [[[4, 5], "neutral"]]}
+{"sentence": "Mustard seed futures fall on hopes of good crop in growing regions", "labels": [[[0, 3], "negative"]]}
+{"sentence": "Government looking to list UTI AMC , to seek nod from Arun Jaitley in a month : Sources", "labels": [[[4, 6], "neutral"]]}
+{"sentence": "MSCI to be flexible on review schedule for China A share inclusion", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Sugar , food grains , eggs , medicines driving inflation : RBI", "labels": [[[0, 1], "negative"], [[2, 4], "negative"], [[5, 6], "negative"], [[7, 8], "negative"], [[11, 12], "neutral"]]}
+{"sentence": "Q4 earnings : RIL ' s profit jumps up 32 pc on rising refining income", "labels": [[[3, 4], "positive"]]}
+{"sentence": "Sterling falls after British retail sales disappoint", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Aluminium futures soften 0 . 16% on global cues", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Ranbaxy ' s long positions should wait for some good news : Ashwani Gujral", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "PSU banks on fire on rate cut hopes , government ' s plan to sell stake", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Australian dollar scales multi - month highs vs yen & pound ; New Zealand dollar off lows", "labels": [[[0, 2], "positive"], [[12, 15], "neutral"], [[8, 9], "neutral"], [[10, 11], "neutral"]]}
+{"sentence": "Copper weakens in futures trade on global cues", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Crisil ' s net profit up 18% at Rs 70 . 92 cr in December quarter", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Mid - cap funds can deliver more , stay put : Experts", "labels": [[[0, 4], "positive"]]}
+{"sentence": "Oracle worth watching over next few days : Deepak Mohoni", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Dollar basks in post - payrolls glow , touches 7 - year high vs yen", "labels": [[[0, 1], "positive"], [[14, 15], "neutral"]]}
+{"sentence": "PNB shares down nearly 5 per cent as earnings disappoint", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Auto , IT , pharma help paint rosy Q3 picture , but current phase of growth not secular across sectors", "labels": [[[0, 1], "neutral"], [[2, 3], "neutral"], [[4, 5], "neutral"]]}
+{"sentence": "Gold futures decline 0 . 18 per cent on global cues", "labels": [[[0, 2], "negative"]]}
+{"sentence": "KPIT Technologies Ltd falls 8% on earnings", "labels": [[[0, 3], "negative"]]}
+{"sentence": "Bank of Baroda issues $750 million dollar bonds for 5 . 5 years", "labels": [[[0, 3], "neutral"]]}
+{"sentence": "Jyothy Lab Q2 net up 54% at over Rs 38 crore", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Diageo bid talk props up UK ' s FTSE", "labels": [[[8, 9], "positive"], [[0, 1], "neutral"]]}
+{"sentence": "Motherson Sumi shares fall ; BofA downgrades to ' neutral '", "labels": [[[0, 2], "negative"], [[5, 6], "neutral"]]}
+{"sentence": "Dollar stands tall on Fed show of economic confidence", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Wait and watch on Bharti Airtel : Vinay Khattar", "labels": [[[4, 6], "neutral"]]}
+{"sentence": "Hong Kong , China shares slip as Wall Street cools off", "labels": [[[0, 2], "negative"], [[3, 5], "negative"]]}
+{"sentence": "4950 - 5000 range should see a technical bounce : Anil Manghnani , eqwise . in", "labels": [[[13, 16], "neutral"]]}
+{"sentence": "Wary of midcap stocks amid economic slowdown : Hemindra Hazari", "labels": [[[2, 4], "negative"]]}
+{"sentence": "Ashok Leyland is good buy even at current levels : Ambareesh Baliga , Edelweiss", "labels": [[[0, 2], "positive"], [[13, 14], "neutral"]]}
+{"sentence": "Gold ' s expensive , India feels the pinch finally", "labels": [[[0, 1], "negative"]]}
+{"sentence": "BOC India hits 20% upper circuit on delisting plans", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Nilkamal ' s stock price rises 7 pc", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Nikkei drops as pension buying slows , Wall Street sags", "labels": [[[0, 1], "negative"]]}
+{"sentence": "PowerGrid Q2 net profit declines to Rs 1 , 201 . 27 crore", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Nikkei rises after Wall Street gains ; market awaits US jobs data", "labels": [[[0, 1], "positive"], [[3, 5], "positive"]]}
+{"sentence": "Bearish on IDFC : Sudip Bandyopadhyay", "labels": [[[2, 3], "negative"]]}
+{"sentence": "Parsvnath Developers seeks shareholders nod to raise up to Rs 1 , 500 crore", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Chinese developers to suffer little from yuan devaluation : S & P", "labels": [[[6, 7], "neutral"], [[9, 12], "neutral"]]}
+{"sentence": "DHFL Q1 Net jumps 25% to Rs 120 crore", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Dheeraj Hinduja appointed Chairman of Ashok Leyland", "labels": [[[5, 7], "neutral"]]}
+{"sentence": "Sensex may touch 28 , 000 mark in 2014 - 15 financial year : Deven Choksey", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Sensex@new high : 5 reasons why bears , not bulls , should be smiling", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Slowing us truck sales to hit Bharat Forge", "labels": [[[6, 8], "negative"]]}
+{"sentence": "Hindalco : Buoyancy in aluminium will boost realisations", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Larsen & Toubro net profit up 35 per cent to Rs 894 crore ; below estimates", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Even if India grows at 7% , it will be fastest growing major economy , ahead of China : Adrian Mowat", "labels": [[[2, 3], "positive"]]}
+{"sentence": "Surya Roshni posts Rs 11 . 90 - crore net profit in Q1 FY13", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "BofA Merrill Lynch retains buy on Cairn India post CEO exit", "labels": [[[6, 8], "positive"], [[0, 3], "neutral"]]}
+{"sentence": "Africa to weigh on Bharti Airtel ' s earnings near term", "labels": [[[4, 6], "negative"]]}
+{"sentence": "PSUs languishing in valuations , but offer pockets of hope", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Resource oriented stocks are a negative buy today : Anu Jain", "labels": [[[0, 3], "negative"]]}
+{"sentence": "Dish TV makes first profit at Rs 35 crore in Q4", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "Rupee weakens by 41 paise after Fed tapering", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Airlines tumble on Paris attack as Asia stocks retreat", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Deal with Adidas will benefit Lovable : Phani Shekhar , Angel Broking", "labels": [[[5, 6], "positive"], [[2, 3], "neutral"], [[10, 12], "neutral"]]}
+{"sentence": "Levels of 1000 possible for Bata India : Ashwani Gujral", "labels": [[[5, 7], "neutral"]]}
+{"sentence": "Cognizant Q3 profit at $397 . 2 million ; raises full year revenue guidance to at least $12 . 41 billion", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Wait and watch JP Power : Sudip Bandyopadhyay", "labels": [[[3, 5], "positive"]]}
+{"sentence": "NCDEX to bring in differential transaction charges from February 19", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Prism Cement reports Rs 62 . 34 crore net loss in Oct - Dec quarter", "labels": [[[0, 2], "negative"]]}
+{"sentence": "Sensex rangebound , Nifty tests 200 - DMA ; top ten stocks in focus", "labels": [[[0, 1], "neutral"], [[3, 4], "neutral"]]}
+{"sentence": "Bullion stocks to pick : Hindustan Zinc & Hindalco Industries", "labels": [[[5, 7], "positive"], [[8, 10], "positive"]]}
+{"sentence": "Pipavav doing very well : Devang Visaria", "labels": [[[0, 1], "positive"]]}
+{"sentence": "Why investors should say no to United Spirits and Maruti Suzuki", "labels": [[[6, 8], "negative"], [[9, 11], "negative"]]}
+{"sentence": "Technology shares lead a slump in US stocks ; Apple sinks", "labels": [[[0, 2], "negative"], [[9, 10], "negative"]]}
+{"sentence": "NSEL follows govt diktat , modifies contracts as per law", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "OMC stocks likely to witness profit booking in short term : Deven Choksey", "labels": [[[0, 2], "negative"]]}
+{"sentence": "It is vital for the rupee to stabilise : Prateek Agarwal , ASK Investment Manager", "labels": [[[12, 15], "neutral"]]}
+{"sentence": "Unitech falls on wider - than - expected quarterly loss", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Monsoon pick - up helps to lower guar , oilseed prices", "labels": [[[7, 8], "negative"], [[9, 10], "negative"]]}
+{"sentence": "Sell Tata Steel at a stop loss of Rs 518 : Sandeep Wagle", "labels": [[[1, 3], "negative"]]}
+{"sentence": "Sistema ' s fourth quarter net loss widens on costs , revenue strong", "labels": [[[0, 1], "negative"]]}
+{"sentence": "Expecting corrections in FMCG , IT & auto : Ashit Suri , JV Capital", "labels": [[[3, 4], "positive"], [[5, 6], "positive"], [[7, 8], "positive"], [[12, 14], "neutral"]]}
+{"sentence": "Aurionpro appoints three independent members to its board", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "GE India to acquire 70% stake in Advanced Systek", "labels": [[[8, 10], "positive"], [[0, 2], "neutral"]]}
+{"sentence": "Fall in order inflows shows more pain ahead for industrial stocks such as L & T , BHEL , Thermax", "labels": [[[13, 16], "positive"], [[17, 18], "positive"], [[19, 20], "positive"]]}
+{"sentence": "Info Edge : Economic turnaround , improved hiring to be immediate trigger", "labels": [[[0, 2], "neutral"]]}
+{"sentence": "DLF ' s Q3 profits fall 30 . 25 per cent", "labels": [[[0, 1], "negative"]]}
+{"sentence": "NDA may give PSU stocks a fillip , Narendra Modis Gujarat success spurs hope", "labels": [[[3, 5], "positive"]]}
+{"sentence": "Seamec Princess best bet for long - term play", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Sebi studies its own regulatory impact : U K Sinha", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "Great Eastern Shipping can touch Rs 306 : Ashwani Gujral", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Era Infra Q3 net marginally up by 1 . 6 pc", "labels": [[[0, 2], "positive"]]}
+{"sentence": "Rashtriya Ispat Nigam Limited to go ahead with IPO plan despite damage by Hudhud : CMD P Madhusudan", "labels": [[[0, 4], "neutral"]]}
+{"sentence": "Dow closes at new record as Intel , IBM gain", "labels": [[[0, 1], "positive"], [[6, 7], "positive"], [[8, 9], "positive"]]}
+{"sentence": "Crude oil futures up on overseas cues", "labels": [[[0, 3], "positive"]]}
+{"sentence": "Gold firms near $1 , 200 , poised to end 2014 largely flat", "labels": [[[0, 1], "neutral"]]}
+{"sentence": "FTIL enters pact with Rakesh Jhunjhunwala , to exit MCX - SX", "labels": [[[0, 1], "neutral"], [[9, 12], "neutral"]]}
+{"sentence": "F & O Tracker : Nifty likely to end at 8400 on expiry", "labels": [[[5, 6], "neutral"]]}
+{"sentence": "N K Verma is new ONGC Videsh Ltd Managing Director", "labels": [[[5, 8], "neutral"]]}
+{"sentence": "Havells India shares surge over 12 pc after stock split", "labels": [[[0, 2], "positive"]]}

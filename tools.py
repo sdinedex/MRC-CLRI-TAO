@@ -326,11 +326,11 @@ def print_results(logger, results):
             }
     """
     logger.info("aspect: {}".format(results['aspect']))
-    logger.info("opinion: {}".format(results['opinion']))
-    logger.info("ao_pair: {}".format(results['ao_pair']))
-    logger.info("aste_triplet: {}".format(results['aste_triplet']))
-    logger.info("aoc_triplet: {}".format(results['aoc_triplet']))
-    logger.info("imp_quadruple: {}".format(results['imp_quadruple']))
+    # logger.info("opinion: {}".format(results['opinion']))
+    # logger.info("ao_pair: {}".format(results['ao_pair']))
+    # logger.info("aste_triplet: {}".format(results['aste_triplet']))
+    # logger.info("aoc_triplet: {}".format(results['aoc_triplet']))
+    # logger.info("imp_quadruple: {}".format(results['imp_quadruple']))
     logger.info("quadruple: {}".format(results['quadruple']))
 
 

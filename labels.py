@@ -146,7 +146,7 @@ def getJsonl(data_path):
 
 
 # 情感极性
-def get_sentiment(task):
+def get_sentiment():
     # if task.lower() == 'asqe' or task.lower() == 'zh_quad':
     #     sentiment = chinese_sentiment
     # else:
@@ -158,42 +158,41 @@ def get_sentiment(task):
 
 
 def get_category_sentiment_num_list(args):
-    task, data_type, data_path = args.task, args.data_type, args.data_path
+    data_path =  args.data_path
     data_path += 'train.jsonl'
-    if task.lower() == 'asqe':
-        categorys = asqe_category
-    elif task.lower() == 'acos':
-        if data_type == 'laptop':
-            categorys = acos_laptop_category
-        else:
-            categorys = acos_res_category
-    elif task.lower() == 'zh_quad':  # quad
-        categorys = zh_quad_category
-    else:
-        categorys = quad_category
+    # if task.lower() == 'asqe':
+    #     categorys = asqe_category
+    # elif task.lower() == 'acos':
+    #     if data_type == 'laptop':
+    #         categorys = acos_laptop_category
+    #     else:
+    #         categorys = acos_res_category
+    # elif task.lower() == 'zh_quad':  # quad
+    #     categorys = zh_quad_category
+    # else:
+    #     categorys = quad_category
 
-    if task.lower() == 'asqe' or task.lower() == 'zh_quad':
-        sentiment = chinese_sentiment
-    else:
-        # 消极的 中性的 积极的
-        sentiment = english_sentiment
+    # if task.lower() == 'asqe' or task.lower() == 'zh_quad':
+    #     sentiment = chinese_sentiment
+    # else:
+    #     # 消极的 中性的 积极的
+    sentiment = english_sentiment
 
-    category_dict = {i: 0 for i in categorys}
+    # category_dict = {i: 0 for i in categorys}
     sentiment_dict = {i: 0 for i in sentiment}
     data_list = getJsonl(data_path)
     count = 0
     for d in data_list:
         labels = d['labels']
         for label in labels:
-            cate, senti = label[1], label[-1]
-            category_dict[cate] += 1
+            senti = label[-1]
+            # category_dict[cate] += 1
             sentiment_dict[senti] += 1
             count += 1
 
-    category_num_list, sentiment_num_list = [0 for _ in range(len(category_dict))], [0 for _ in
-                                                                                     range(len(sentiment_dict))]
-    for i, key in enumerate(category_dict):
-        category_num_list[i] = category_dict[key]
+    sentiment_num_list =  [0 for _ in range(len(sentiment_dict))]
+    # for i, key in enumerate(category_dict):
+    #     category_num_list[i] = category_dict[key]
     for i, key in enumerate(sentiment_dict):
         sentiment_num_list[i] = sentiment_dict[key]
-    return [category_num_list, sentiment_num_list]
+    return [sentiment_num_list]

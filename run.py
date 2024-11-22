@@ -13,7 +13,7 @@ from transformers import BertTokenizer, get_linear_schedule_with_warmup
 from collate import collate_fn
 from data_utils import ACOSDataset
 from finetuning_argparse import init_args
-from labels import get_aspect_category, get_category_sentiment_num_list
+from labels import get_category_sentiment_num_list
 from mrc_model import MRCModel
 from tools import get_logger, seed_everything, save_model, print_results, print_results2
 from trainer import ACOSTrainer
@@ -22,14 +22,14 @@ from trainer import ACOSTrainer
 def do_train():
     # ##########init model##########
     logger.info("Building MRC-CLRI Model...")
-    category_list = get_aspect_category(args.task, args.data_type)
-    args.category_dim = len(category_list[0])
+    # category_list = get_aspect_category(args.task, args.data_type)
+    # args.category_dim = len(category_list[0])
     # category and sentiment num_list
     res_lists = get_category_sentiment_num_list(args)
-    args.category_num_list = res_lists[0]
+    # args.category_num_list = res_lists[0]
     args.sentiment_num_list = res_lists[-1]
 
-    model = MRCModel(args, len(category_list[0]))
+    model = MRCModel(args)
     model = model.cuda()
     # load dat
     # dataset
@@ -86,11 +86,11 @@ def do_train():
 def do_test():
     # ##########init model##########
     logger.info("Building MRC-CLRI Model...")
-    category_list = get_aspect_category(args.task, args.data_type)
-    args.category_dim = len(category_list[0])
+    # category_list = get_aspect_category(args.task, args.data_type)
+    # args.category_dim = len(category_list[0])
     # category and sentiment num_list
     res_lists = get_category_sentiment_num_list(args)
-    args.category_num_list = res_lists[0]
+    # args.category_num_list = res_lists[0]
     args.sentiment_num_list = res_lists[-1]
 
     # # load data
@@ -190,11 +190,11 @@ def do_optimized():
 def do_inference(reviews):
     # ##########init model##########
     logger.info("Building MRC-CLRI Model...")
-    category_list = get_aspect_category(args.task, args.data_type)
-    args.category_dim = len(category_list[0])
+    # category_list = get_aspect_category(args.task, args.data_type)
+    # args.category_dim = len(category_list[0])
     # category and sentiment num_list
     res_lists = get_category_sentiment_num_list(args)
-    args.category_num_list = res_lists[0]
+    # args.category_num_list = res_lists[0]
     args.sentiment_num_list = res_lists[-1]
 
     # load checkpoint
@@ -216,8 +216,8 @@ if __name__ == '__main__':
     seed_everything(args.seed)
 
     # ##########创建目录##########
-    output_path = os.path.join(args.output_dir, args.task, args.data_type)
-    log_path = os.path.join(args.log_dir, args.task, args.data_type)
+    output_path = os.path.join(args.output_dir)
+    log_path = os.path.join(args.log_dir)
     if not os.path.exists(output_path):
         os.makedirs(output_path)
     if not os.path.exists(log_path):
@@ -231,21 +231,21 @@ if __name__ == '__main__':
     logger.info(args)
 
     # tokenizer
-    tokenizer = BertTokenizer.from_pretrained(args.model_path)
-
+    tokenizer = BertTokenizer.from_pretrained(args.model_path,do_basic_tokenize=True)
+    args.do_train=True
     if args.do_train:
         do_train()
-    if args.do_test:
-        do_test()
-    if args.do_optimized:
-        do_optimized()
-    if args.do_inference:
-        # 根据给定的文本直接预测出结果
-        text = ['The sushi was awful !',
-                # [['sushi', 'FOOD#QUALITY', 'awful', 'negative']]
-                'they have a delicious banana chocolate dessert , as well as a great green tea te ##mp ##ura .',
-                # [['banana chocolate dessert', 'FOOD#QUALITY', 'delicious', 'positive'], ['green tea te ##mp', 'FOOD#QUALITY', 'great', 'positive']]
-                'so delicious ! ! ! ! ! !',
-                # [['NULL', 'FOOD#QUALITY', 'delicious', 'positive']]
-                ]
-        do_inference(text)
+    # if args.do_test:
+    #     do_test()
+    # if args.do_optimized:
+    #     do_optimized()
+    # if args.do_inference:
+    #     # 根据给定的文本直接预测出结果
+    #     text = ['The sushi was awful !',
+    #             # [['sushi', 'FOOD#QUALITY', 'awful', 'negative']]
+    #             'they have a delicious banana chocolate dessert , as well as a great green tea te ##mp ##ura .',
+    #             # [['banana chocolate dessert', 'FOOD#QUALITY', 'delicious', 'positive'], ['green tea te ##mp', 'FOOD#QUALITY', 'great', 'positive']]
+    #             'so delicious ! ! ! ! ! !',
+    #             # [['NULL', 'FOOD#QUALITY', 'delicious', 'positive']]
+    #             ]
+    #     do_inference(text)
