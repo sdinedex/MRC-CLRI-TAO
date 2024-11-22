@@ -147,11 +147,11 @@ def getJsonl(data_path):
 
 # 情感极性
 def get_sentiment(task):
-    if task.lower() == 'asqe' or task.lower() == 'zh_quad':
-        sentiment = chinese_sentiment
-    else:
-        # 消极的 中性的 积极的
-        sentiment = english_sentiment
+    # if task.lower() == 'asqe' or task.lower() == 'zh_quad':
+    #     sentiment = chinese_sentiment
+    # else:
+    #     # 消极的 中性的 积极的
+    sentiment = english_sentiment
     sentiment2id = {s: i for i, s in enumerate(sentiment)}
     id2sentiment = {i: s for i, s in enumerate(sentiment)}
     return [sentiment] + [sentiment2id] + [id2sentiment]

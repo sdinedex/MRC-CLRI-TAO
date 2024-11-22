@@ -31,7 +31,7 @@ def getJsonl(data_path):
     return data_list
 
 
-def get_quadruples(lines, tokenizer, task):
+def get_quadruples(lines, tokenizer):
     # Line sample:
     # {'sentence': 'get the tuna of gari .', 'labels': [[(2, 5), 'FOOD#QUALITY', (-1, -1), 'positive']]}
     # {'sentence': '东西挺好用的，保湿度强', 'labels': [[(-1, -1), '整体', (2, 6), '正面'], [(7, 10), '功效', (10, 11), '正面']]}
@@ -40,11 +40,14 @@ def get_quadruples(lines, tokenizer, task):
     for line in lines:
         sentence, labels = line['sentence'], line['labels']
 
-        # 全部转为小写
-        if task.lower() == "asqe" or task.lower() == 'zh_quad':
-            word_list = list(sentence.lower())
-        else:
-            word_list = sentence.lower().split()
+        # # 全部转为小写
+        # if task.lower() == "asqe" or task.lower() == 'zh_quad':
+        #     word_list = list(sentence.lower())
+        # else:
+        #     word_list = sentence.lower().split()
+
+        word_list=sentence.lower().split()
+        
         # 使用分词器进行处理
         subwords_token = list(map(tokenizer.tokenize, word_list))
         subword_lengths = list(map(len, subwords_token))
@@ -53,80 +56,82 @@ def get_quadruples(lines, tokenizer, task):
 
         quad = []
         for label in labels:
-            if label[0] == (-1, -1):
-                asp = (-1, -1)
-            else:
-                asp_start, asp_end = token_start_idxs[label[0][0]], token_start_idxs[label[0][1] - 1] + subword_lengths[
-                    label[0][1] - 1] - 1
-                asp = (asp_start, asp_end)
-            if label[2] == (-1, -1):
-                opi = (-1, -1)
-            else:
-                opi_start, opi_end = token_start_idxs[label[2][0]], token_start_idxs[label[2][1] - 1] + subword_lengths[
-                    label[2][1] - 1] - 1
-                opi = (opi_start, opi_end)
-            category, sentiment = label[1], label[-1]
+            # if label[0] == (-1, -1):
+            #     asp = (-1, -1)
+            # else:
+            asp_start, asp_end = token_start_idxs[label[0][0]], token_start_idxs[label[0][1] - 1] + subword_lengths[
+                label[0][1] - 1] - 1
+            asp = (asp_start, asp_end)
+            # if label[2] == (-1, -1):
+            #     opi = (-1, -1)
+            # else:
+                # opi_start, opi_end = token_start_idxs[label[2][0]], token_start_idxs[label[2][1] - 1] + subword_lengths[
+                #     label[2][1] - 1] - 1
+                # opi = (opi_start, opi_end)
 
-            quad.append((asp, category, opi, sentiment))
+            # category, sentiment = label[1], label[-1]
+            sentiment=label[-1]
+
+            quad.append((asp, sentiment))
 
         sentence_token.append(subwords_token)
         quadruple_list.append(quad)
     return sentence_token, quadruple_list
 
 
-def deal_quadruple(quadruple, category_dict, sentiment_dict):
+def deal_quadruple(quadruple,  sentiment_dict):
     aspects = []
-    opinions = []
-    pairs = []
-    aste_triplets = []
-    aoc_triplets = []
+    # opinions = []
+    # pairs = []
+    # aste_triplets = []
+    # aoc_triplets = []
     quadruples = []
 
     f_quadruple_aspect = []
-    f_quadruple_opinion = []
-    b_quadruple_aspect = []
-    b_quadruple_opinion = []
-    quadruple_category = []
+    # f_quadruple_opinion = []
+    # b_quadruple_aspect = []
+    # b_quadruple_opinion = []
+    # quadruple_category = []
     quadruple_sentiment = []
     for t in quadruple:
         if t[0] not in f_quadruple_aspect:
             f_quadruple_aspect.append(t[0])
-            f_quadruple_opinion.append([t[2]])
-            quadruple_category.append([category_dict[t[1]]])
+            # f_quadruple_opinion.append([t[2]])
+            # quadruple_category.append([category_dict[t[1]]])
             quadruple_sentiment.append([sentiment_dict[t[-1]]])
         else:
             idx = f_quadruple_aspect.index(t[0])
-            f_quadruple_opinion[idx].append(t[2])
-            quadruple_category[idx].append(category_dict[t[1]])
+            # f_quadruple_opinion[idx].append(t[2])
+            # quadruple_category[idx].append(category_dict[t[1]])
             quadruple_sentiment[idx].append(sentiment_dict[t[-1]])
-        if t[2] not in b_quadruple_opinion:
-            b_quadruple_opinion.append(t[2])
-            b_quadruple_aspect.append([t[0]])
-        else:
-            idx = b_quadruple_opinion.index(t[2])
-            b_quadruple_aspect[idx].append(t[0])
+        # if t[2] not in b_quadruple_opinion:
+        #     b_quadruple_opinion.append(t[2])
+        #     b_quadruple_aspect.append([t[0]])
+        # else:
+        #     idx = b_quadruple_opinion.index(t[2])
+        #     b_quadruple_aspect[idx].append(t[0])
 
         asp = list(t[0])
-        opi = list(t[2])
-        pai = [asp, opi]
-        trip = [asp, opi, sentiment_dict[t[-1]]]
-        aoc = [asp, opi, category_dict[t[1]]]
-        quad = [asp, category_dict[t[1]], opi, sentiment_dict[t[-1]]]
+        # opi = list(t[2])
+        # pai = [asp, opi]
+        # trip = [asp, opi, sentiment_dict[t[-1]]]
+        # aoc = [asp, opi, category_dict[t[1]]]
+        quad = [asp, sentiment_dict[t[-1]]]
         if asp not in aspects:
             aspects.append(asp)
-        if opi not in opinions:
-            opinions.append(opi)
-        if pai not in pairs:
-            pairs.append(pai)
-        if trip not in aste_triplets:
-            aste_triplets.append(trip)
-        if aoc not in aoc_triplets:
-            aoc_triplets.append(aoc)
+        # if opi not in opinions:
+        #     opinions.append(opi)
+        # if pai not in pairs:
+        #     pairs.append(pai)
+        # if trip not in aste_triplets:
+        #     aste_triplets.append(trip)
+        # if aoc not in aoc_triplets:
+        #     aoc_triplets.append(aoc)
         if quad not in quadruples:
             quadruples.append(quad)
 
-    return f_quadruple_aspect, f_quadruple_opinion, b_quadruple_aspect, b_quadruple_opinion, quadruple_category, quadruple_sentiment, \
-        aspects, opinions, pairs, aste_triplets, aoc_triplets, quadruples
+    return f_quadruple_aspect, quadruple_sentiment, \
+        aspects, quadruples
 
 
 class ACOSDataset(Dataset):
@@ -144,8 +149,8 @@ class ACOSDataset(Dataset):
         task = args.task
         data_type = args.data_type
 
-        self.max_fopi_nums, self.max_basp_nums, self.max_pair_nums = 0, 0, 0
-        self.max_fasp_len, self.max_fopi_len, self.max_basp_len, self.max_bopi_len, self.max_pair_len = 0, 0, 0, 0, 0
+        # self.max_fopi_nums, self.max_basp_nums, self.max_pair_nums = 0, 0, 0
+        self.max_fasp_len  = 0
         low_resource = args.low_resource
 
         self.data_samples = self._build_examples(data_path, dataset_type, task, data_type)
@@ -176,156 +181,155 @@ class ACOSDataset(Dataset):
         data_samples = []
 
         # category2id sentiment2id
-        category2id, sentiment2id = get_aspect_category(task, data_type)[1], get_sentiment(task)[1]
+        sentiment2id =  get_sentiment(task)[1]
         # lines data
         lines = getJsonl(data_path + dataset_type + '.jsonl')
         # get quadruples
-        sentence_token, quadruple_list = get_quadruples(lines, self.tokenizer, task)
+        sentence_token, quadruple_list = get_quadruples(lines, self.tokenizer)
 
         # 英文模板
-        Forward_Q1, Backward_Q1, Forward_Q2, Backward_Q2, Q3, Q4 = get_English_Template()
+        Forward_Q1, Q4 = get_English_Template()
         # ================================question and answer================================
         for k in range(len(sentence_token)):
             quadruple = quadruple_list[k]
             text = sentence_token[k]
 
-            f_quadruple_aspect, f_quadruple_opinion, b_quadruple_aspect, b_quadruple_opinion, quadruple_category, quadruple_sentiment, \
-                aspects, opinions, pairs, aste_triplets, aoc_triplets, quadruples = deal_quadruple(quadruple,
-                                                                                                   category2id,
-                                                                                                   sentiment2id)
+            f_quadruple_aspect,  quadruple_sentiment, \
+            aspects,  quadruples = deal_quadruple(quadruple,sentiment2id)
             forward_query_list = []
             forward_answer_list = []
-            backward_query_list = []
-            backward_answer_list = []
+            # backward_query_list = []
+            # backward_answer_list = []
 
-            category_query_list = []
-            category_answer_list = []
+            # category_query_list = []
+            # category_answer_list = []
             sentiment_query_list = []
             sentiment_answer_list = []
 
             # forward
             # aspect query
             forward_query_list.append(Forward_Q1)
-            if len(forward_query_list[0]) + 1 + len(text) > self.max_fasp_len:
-                self.max_fasp_len = len(forward_query_list[0]) + 1 + len(text)
-            start = [0] * (len(text) + 1)
-            end = [0] * (len(text) + 1)
+            if len(forward_query_list[0]) + len(text) > self.max_fasp_len:
+                self.max_fasp_len = len(forward_query_list[0])  + len(text)
+            start = [0] * (len(text) )
+            end = [0] * (len(text) )
             for ta in f_quadruple_aspect:
-                if ta == (-1, -1):
-                    start[0] = 1
-                    end[0] = 1
-                else:
-                    start[ta[0] + 1] = 1
-                    end[ta[-1] + 1] = 1
+                # if ta == (-1, -1):
+                #     start[0] = 1
+                #     end[0] = 1
+                # else:
+                start[ta[0] ] = 1
+                end[ta[-1] ] = 1
             forward_answer_list.append([start, end])
 
             # opinion query
             for idx in range(len(f_quadruple_aspect)):
                 ta = f_quadruple_aspect[idx]
-                if ta == (-1, -1):
-                    if task.lower() == "asqe" or task.lower() == 'zh_quad':
-                        query = Forward_Q2[0:7] + ["null"] + Forward_Q2[7:]
-                    else:
-                        query = Forward_Q2[0:6] + ["null"] + Forward_Q2[6:]
-                else:
-                    if task.lower() == "asqe" or task.lower() == 'zh_quad':
-                        query = Forward_Q2[0:7] + text[ta[0]:ta[-1] + 1] + Forward_Q2[7:]
-                    else:
-                        query = Forward_Q2[0:6] + text[ta[0]:ta[-1] + 1] + Forward_Q2[6:]
-                forward_query_list.append(query)
-                if len(query) + 1 + len(text) > self.max_fopi_len:
-                    self.max_fopi_len = len(query) + 1 + len(text)
-                start = [0] * (len(text) + 1)
-                end = [0] * (len(text) + 1)
-                for to in f_quadruple_opinion[idx]:
-                    if to == (-1, -1):
-                        start[0] = 1
-                        end[0] = 1
-                    else:
-                        start[to[0] + 1] = 1
-                        end[to[-1] + 1] = 1
-                forward_answer_list.append([start, end])
+                # if ta == (-1, -1):
+                #     if task.lower() == "asqe" or task.lower() == 'zh_quad':
+                #         query = Forward_Q2[0:7] + ["null"] + Forward_Q2[7:]
+                #     else:
+                #         query = Forward_Q2[0:6] + ["null"] + Forward_Q2[6:]
+                # else:
+                #     if task.lower() == "asqe" or task.lower() == 'zh_quad':
+                #         query = Forward_Q2[0:7] + text[ta[0]:ta[-1] + 1] + Forward_Q2[7:]
+                #     else:
+                #         query = Forward_Q2[0:6] + text[ta[0]:ta[-1] + 1] + Forward_Q2[6:]
+                # forward_query_list.append(query)
+                # if len(query) + 1 + len(text) > self.max_fopi_len:
+                #     self.max_fopi_len = len(query) + 1 + len(text)
+                # start = [0] * (len(text) + 1)
+                # end = [0] * (len(text) + 1)
+                # for to in f_quadruple_opinion[idx]:
+                #     if to == (-1, -1):
+                #         start[0] = 1
+                #         end[0] = 1
+                #     else:
+                #         start[to[0] + 1] = 1
+                #         end[to[-1] + 1] = 1
+                # forward_answer_list.append([start, end])
 
                 # category query
                 # sentiment query
-                if ta == (-1, -1):
-                    if task.lower() == "asqe" or task.lower() == 'zh_quad':
-                        query1 = Q3[0:7] + ["null"] + Q3[7:8]
-                        query2 = Q4[0:7] + ["null"] + Q4[7:8]
-                    else:
-                        query1 = Q3[0:6] + ["null"] + Q3[6:9]
-                        query2 = Q4[0:6] + ["null"] + Q4[6:9]
-                else:
-                    if task.lower() == "asqe" or task.lower() == 'zh_quad':
-                        query1 = Q3[0:7] + text[ta[0]:ta[-1] + 1] + Q3[7:8]
-                        query2 = Q4[0:7] + text[ta[0]:ta[-1] + 1] + Q4[7:8]
-                    else:
-                        query1 = Q3[0:6] + text[ta[0]:ta[-1] + 1] + Q3[6:9]
-                        query2 = Q4[0:6] + text[ta[0]:ta[-1] + 1] + Q4[6:9]
-                for idy in range(len(f_quadruple_opinion[idx])):
-                    to = f_quadruple_opinion[idx][idy]
-                    if to == (-1, -1):
-                        if task.lower() == "asqe" or task.lower() == 'zh_quad':
-                            query1 = query1 + ["null"] + Q3[8:]
-                            query2 = query2 + ["null"] + Q4[8:]
-                        else:
-                            query1 = query1 + ["null"] + Q3[9:]
-                            query2 = query2 + ["null"] + Q4[9:]
-                    else:
-                        if task.lower() == "asqe" or task.lower() == 'zh_quad':
-                            query1 = query1 + text[to[0]:to[-1] + 1] + Q3[8:]
-                            query2 = query2 + text[to[0]:to[-1] + 1] + Q4[8:]
-                        else:
-                            query1 = query1 + text[to[0]:to[-1] + 1] + Q3[9:]
-                            query2 = query2 + text[to[0]:to[-1] + 1] + Q4[9:]
-                    if len(query1) + 1 + len(text) > self.max_pair_len:
-                        self.max_pair_len = len(query1) + 1 + len(text)
-                    category_query_list.append(query1)
-                    category_answer_list.append(quadruple_category[idx][idy])
-                    sentiment_query_list.append(query2)
-                    sentiment_answer_list.append(quadruple_sentiment[idx][idy])
+                # if ta == (-1, -1):
+                #     if task.lower() == "asqe" or task.lower() == 'zh_quad':
+                #         query1 = Q3[0:7] + ["null"] + Q3[7:8]
+                #         query2 = Q4[0:7] + ["null"] + Q4[7:8]
+                #     else:
+                #         query1 = Q3[0:6] + ["null"] + Q3[6:9]
+                #         query2 = Q4[0:6] + ["null"] + Q4[6:9]
+                # else:
+                # if task.lower() == "asqe" or task.lower() == 'zh_quad':
+                #     # query1 = Q3[0:7] + text[ta[0]:ta[-1] + 1] + Q3[7:8]
+                #     query2 = Q4[0:7] + text[ta[0]:ta[-1] + 1] + Q4[7:8]
+                # else:
+                    # query1 = Q3[0:6] + text[ta[0]:ta[-1] + 1] + Q3[6:9]
+                query2 = Q4[0:6] + text[ta[0]:ta[-1] + 1] + Q4[6:]
+                sentiment_query_list.append(query2)
+                # for idy in range(len(f_quadruple_opinion[idx])):
+                #     to = f_quadruple_opinion[idx][idy]
+                #     if to == (-1, -1):
+                #         if task.lower() == "asqe" or task.lower() == 'zh_quad':
+                #             query1 = query1 + ["null"] + Q3[8:]
+                #             query2 = query2 + ["null"] + Q4[8:]
+                #         else:
+                #             query1 = query1 + ["null"] + Q3[9:]
+                #             query2 = query2 + ["null"] + Q4[9:]
+                #     else:
+                #         if task.lower() == "asqe" or task.lower() == 'zh_quad':
+                #             query1 = query1 + text[to[0]:to[-1] + 1] + Q3[8:]
+                #             query2 = query2 + text[to[0]:to[-1] + 1] + Q4[8:]
+                #         else:
+                #             query1 = query1 + text[to[0]:to[-1] + 1] + Q3[9:]
+                #             query2 = query2 + text[to[0]:to[-1] + 1] + Q4[9:]
+                #     if len(query1) + 1 + len(text) > self.max_pair_len:
+                #         self.max_pair_len = len(query1) + 1 + len(text)
+                #     category_query_list.append(query1)
+                #     category_answer_list.append(quadruple_category[idx][idy])
+                #     sentiment_query_list.append(query2)
+                #     sentiment_answer_list.append(quadruple_sentiment[idx][idy])
 
             # backward
             # opinion query
-            backward_query_list.append(Backward_Q1)
-            if len(backward_query_list[0]) + 1 + len(text) > self.max_bopi_len:
-                self.max_bopi_len = len(backward_query_list[0]) + 1 + len(text)
-            start = [0] * (len(text) + 1)
-            end = [0] * (len(text) + 1)
-            for to in b_quadruple_opinion:
-                if to == (-1, -1):
-                    start[0] = 1
-                    end[0] = 1
-                else:
-                    start[to[0] + 1] = 1
-                    end[to[-1] + 1] = 1
-            backward_answer_list.append([start, end])
-            # aspect query
-            for idx in range(len(b_quadruple_opinion)):
-                ta = b_quadruple_opinion[idx]
-                if ta == (-1, -1):
-                    if task.lower() == "asqe" or task.lower() == 'zh_quad':
-                        query = Backward_Q2[0:7] + ["null"] + Backward_Q2[7:]
-                    else:
-                        query = Backward_Q2[0:6] + ["null"] + Backward_Q2[6:]
-                else:
-                    if task.lower() == "asqe" or task.lower() == 'zh_quad':
-                        query = Backward_Q2[0:7] + text[ta[0]:ta[-1] + 1] + Backward_Q2[7:]
-                    else:
-                        query = Backward_Q2[0:6] + text[ta[0]:ta[-1] + 1] + Backward_Q2[6:]
-                backward_query_list.append(query)
-                if len(query) + 1 + len(text) > self.max_basp_len:
-                    self.max_basp_len = len(query) + 1 + len(text)
-                start = [0] * (len(text) + 1)
-                end = [0] * (len(text) + 1)
-                for to in b_quadruple_aspect[idx]:
-                    if to == (-1, -1):
-                        start[0] = 1
-                        end[0] = 1
-                    else:
-                        start[to[0] + 1] = 1
-                        end[to[-1] + 1] = 1
-                backward_answer_list.append([start, end])
+            # backward_query_list.append(Backward_Q1)
+            # if len(backward_query_list[0]) + 1 + len(text) > self.max_bopi_len:
+            #     self.max_bopi_len = len(backward_query_list[0]) + 1 + len(text)
+            # start = [0] * (len(text) + 1)
+            # end = [0] * (len(text) + 1)
+            # for to in b_quadruple_opinion:
+            #     if to == (-1, -1):
+            #         start[0] = 1
+            #         end[0] = 1
+            #     else:
+            #         start[to[0] + 1] = 1
+            #         end[to[-1] + 1] = 1
+            # backward_answer_list.append([start, end])
+            # # aspect query
+            # for idx in range(len(b_quadruple_opinion)):
+            #     ta = b_quadruple_opinion[idx]
+            #     if ta == (-1, -1):
+            #         if task.lower() == "asqe" or task.lower() == 'zh_quad':
+            #             query = Backward_Q2[0:7] + ["null"] + Backward_Q2[7:]
+            #         else:
+            #             query = Backward_Q2[0:6] + ["null"] + Backward_Q2[6:]
+            #     else:
+            #         if task.lower() == "asqe" or task.lower() == 'zh_quad':
+            #             query = Backward_Q2[0:7] + text[ta[0]:ta[-1] + 1] + Backward_Q2[7:]
+            #         else:
+            #             query = Backward_Q2[0:6] + text[ta[0]:ta[-1] + 1] + Backward_Q2[6:]
+            #     backward_query_list.append(query)
+            #     if len(query) + 1 + len(text) > self.max_basp_len:
+            #         self.max_basp_len = len(query) + 1 + len(text)
+            #     start = [0] * (len(text) + 1)
+            #     end = [0] * (len(text) + 1)
+            #     for to in b_quadruple_aspect[idx]:
+            #         if to == (-1, -1):
+            #             start[0] = 1
+            #             end[0] = 1
+            #         else:
+            #             start[to[0] + 1] = 1
+            #             end[to[-1] + 1] = 1
+            #     backward_answer_list.append([start, end])
 
             # forward (max_opinion_nums)
             if len(forward_query_list) - 1 > self.max_fopi_nums:
