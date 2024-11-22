@@ -126,23 +126,23 @@ def getJsonl(data_path):
     return data_list
 
 
-# aspect类别
-def get_aspect_category(task: str, data_type: str):
-    if task.lower() == 'asqe':
-        categorys = asqe_category
-    elif task.lower() == 'acos':
-        if data_type == 'laptop':
-            categorys = acos_laptop_category
-        else:
-            categorys = acos_res_category
-    elif task.lower() == 'zh_quad':  # quad
-        categorys = zh_quad_category
-    else:
-        categorys = quad_category
+# # aspect类别
+# def get_aspect_category(task: str, data_type: str):
+#     if task.lower() == 'asqe':
+#         categorys = asqe_category
+#     elif task.lower() == 'acos':
+#         if data_type == 'laptop':
+#             categorys = acos_laptop_category
+#         else:
+#             categorys = acos_res_category
+#     elif task.lower() == 'zh_quad':  # quad
+#         categorys = zh_quad_category
+#     else:
+#         categorys = quad_category
 
-    category2id = {c: i for i, c in enumerate(categorys)}
-    id2category = {i: c for i, c in enumerate(categorys)}
-    return [categorys] + [category2id] + [id2category]
+#     category2id = {c: i for i, c in enumerate(categorys)}
+#     id2category = {i: c for i, c in enumerate(categorys)}
+#     return [categorys] + [category2id] + [id2category]
 
 
 # 情感极性

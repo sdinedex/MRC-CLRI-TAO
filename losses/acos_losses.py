@@ -32,8 +32,8 @@ def calculate_entity_loss(pred_start, pred_end, gold_start, gold_end):
     return 0.5 * loss_start + 0.5 * loss_end
 
 
-def calculate_category_loss(pred_category, gold_category):
-    return F.cross_entropy(pred_category, gold_category.long(), reduction='sum', ignore_index=-1)
+# def calculate_category_loss(pred_category, gold_category):
+#     return F.cross_entropy(pred_category, gold_category.long(), reduction='sum', ignore_index=-1)
 
 
 def calculate_sentiment_loss(pred_sentiment, gold_sentiment):
